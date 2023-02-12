@@ -1,0 +1,1047 @@
+{"robotaUaId":1,"ru":"Киев","ua":"Київ","en":"Kyiv"}
+{"robotaUaId":4,"ru":"Днепр","ua":"Дніпро","en":"Dnipro"}
+{"robotaUaId":6,"ru":"Донецк","ua":"Донецьк","en":"Donetsk"}
+{"robotaUaId":9,"ru":"Запорожье","ua":"Запоріжжя","en":"Zaporizhia"}
+{"robotaUaId":3,"ru":"Одесса","ua":"Одеса","en":"Odessa"}
+{"robotaUaId":21,"ru":"Харьков","ua":"Харків","en":"Kharkiv"}
+{"robotaUaId":2,"ru":"Львов","ua":"Львів","en":"Lviv"}
+{"robotaUaId":34,"ru":"Другие страны","ua":"Інші країни","en":"Other countries"}
+{"robotaUaId":1012,"ru":"Австрия","ua":"Австрія","en":"Austria"}
+{"robotaUaId":1014,"ru":"Болгария","ua":"Болгарія","en":"Bulgaria"}
+{"robotaUaId":1005,"ru":"Великобритания","ua":"Великобританія","en":"Great Britain"}
+{"robotaUaId":1011,"ru":"Венгрия","ua":"Угорщина","en":"Hungary"}
+{"robotaUaId":1002,"ru":"Германия","ua":"Німеччина","en":"Germany"}
+{"robotaUaId":1007,"ru":"Израиль","ua":"Ізраїль","en":"Israel"}
+{"robotaUaId":1018,"ru":"Испания","ua":"Іспанія","en":"Spain"}
+{"robotaUaId":1017,"ru":"Италия","ua":"Італія","en":"Italy"}
+{"robotaUaId":1009,"ru":"Латвия","ua":"Латвія","en":"Latvia"}
+{"robotaUaId":1003,"ru":"Литва","ua":"Литва","en":"Lithuania"}
+{"robotaUaId":1008,"ru":"ОАЭ","ua":"ОАЕ","en":"UAE"}
+{"robotaUaId":1000,"ru":"Польша","ua":"Польща","en":"Poland"}
+{"robotaUaId":1006,"ru":"Словакия","ua":"Словаччина","en":"Slovakia"}
+{"robotaUaId":1013,"ru":"Словения","ua":"Словенія","en":"Slovenia"}
+{"robotaUaId":1016,"ru":"Турция","ua":"Туреччина","en":"Turkey"}
+{"robotaUaId":1019,"ru":"Франция","ua":"Франція","en":"France"}
+{"robotaUaId":1015,"ru":"Хорватия","ua":"Хорватія","en":"Croatia"}
+{"robotaUaId":1001,"ru":"Чехия","ua":"Чехія","en":"Czech Republic"}
+{"robotaUaId":1010,"ru":"Швеция","ua":"Швеція","en":"Sweden"}
+{"robotaUaId":1004,"ru":"Эстония","ua":"Естонія","en":"Estonia"}
+{"robotaUaId":1036,"ru":"Белисток, Польша","ua":"Бялисток, Польща","en":"Bialystok"}
+{"robotaUaId":1030,"ru":"Быдгощ, Польша","ua":"Бидгощ, Польща","en":"Bydgoszcz"}
+{"robotaUaId":1020,"ru":"Варшава, Польша","ua":"Варшава, Польща","en":"Warsaw"}
+{"robotaUaId":5,"ru":"Винница","ua":"Вінниця","en":"Vinnytsia"}
+{"robotaUaId":1022,"ru":"Вроцлав, Польша","ua":"Вроцлав, Польща","en":"Wroclaw"}
+{"robotaUaId":1025,"ru":"Гданьск, Польша","ua":"Гданськ, Польща","en":"Gdansk"}
+{"robotaUaId":1026,"ru":"Гдыня, Польша","ua":"Гдиня, Польща","en":"Gdynia"}
+{"robotaUaId":1032,"ru":"Гожув-Велькопольский, Польша","ua":"Гожув-Велькопольський, Польща","en":"Gorzow Wielkopolski"}
+{"robotaUaId":1035,"ru":"Жешув, Польша","ua":"Жешув, Польща","en":"Rzeszow"}
+{"robotaUaId":7,"ru":"Житомир","ua":"Житомир","en":"Zhitomir"}
+{"robotaUaId":1033,"ru":"Зеленая Гура, Польша","ua":"Зелена Гура, Польща","en":"Zielona Gora"}
+{"robotaUaId":10,"ru":"Ивано-Франковск","ua":"Івано-Франківськ","en":"Ivano-Frankivsk"}
+{"robotaUaId":1024,"ru":"Катовице, Польша","ua":"Катовіце, Польща","en":"Katowice"}
+{"robotaUaId":1038,"ru":"Кельце, Польша","ua":"Кельце, Польща","en":"Kielce"}
+{"robotaUaId":1021,"ru":"Краков, Польша","ua":"Краків, Польща","en":"Krakow"}
+{"robotaUaId":31,"ru":"Кривой Рог","ua":"Кривий Ріг","en":"Kryvyi Rih"}
+{"robotaUaId":11,"ru":"Кропивницкий","ua":"Кропивницький","en":"Kropyvnytskyi"}
+{"robotaUaId":1027,"ru":"Лодзь, Польша","ua":"Лодзь, Польща","en":"Lodz"}
+{"robotaUaId":13,"ru":"Луганск","ua":"Луганськ","en":"Luhansk"}
+{"robotaUaId":14,"ru":"Луцк","ua":"Луцьк","en":"Lutsk"}
+{"robotaUaId":1029,"ru":"Люблин, Польша","ua":"Люблін, Польща","en":"Lublin"}
+{"robotaUaId":27,"ru":"Мариуполь","ua":"Маріуполь","en":"Mariupol"}
+{"robotaUaId":15,"ru":"Николаев","ua":"Миколаїв","en":"Mykolaiv"}
+{"robotaUaId":1034,"ru":"Ополе, Польша","ua":"Ополе, Польща","en":"Opole"}
+{"robotaUaId":1023,"ru":"Познань, Польша","ua":"Познань, Польща","en":"Poznan"}
+{"robotaUaId":17,"ru":"Полтава","ua":"Полтава","en":"Poltava"}
+{"robotaUaId":18,"ru":"Ровно","ua":"Рівне","en":"Rivne"}
+{"robotaUaId":32,"ru":"Севастополь","ua":"Севастополь","en":"Sevastopol"}
+{"robotaUaId":29,"ru":"Симферополь","ua":"Сімферополь","en":"Simferopol"}
+{"robotaUaId":1037,"ru":"Сопот, Польша","ua":"Сопот, Польща","en":"Sopot"}
+{"robotaUaId":19,"ru":"Сумы","ua":"Суми","en":"Sumy"}
+{"robotaUaId":20,"ru":"Тернополь","ua":"Тернопіль","en":"Ternopil"}
+{"robotaUaId":1031,"ru":"Торунь, Польша","ua":"Торунь, Польща","en":"Torun"}
+{"robotaUaId":28,"ru":"Ужгород","ua":"Ужгород","en":"Uzhhorod"}
+{"robotaUaId":22,"ru":"Херсон","ua":"Херсон","en":"Kherson"}
+{"robotaUaId":23,"ru":"Хмельницкий","ua":"Хмельницький","en":"Khmelnytskyi"}
+{"robotaUaId":24,"ru":"Черкассы","ua":"Черкаси","en":"Cherkasy"}
+{"robotaUaId":25,"ru":"Чернигов","ua":"Чернігів","en":"Chernihiv"}
+{"robotaUaId":26,"ru":"Черновцы","ua":"Чернівці","en":"Chernivtsi"}
+{"robotaUaId":1028,"ru":"Щецин, Польша","ua":"Щецин, Польща","en":"Szczecin"}
+{"robotaUaId":710,"ru":"Авангард","ua":"Авангард","en":"Avanhard"}
+{"robotaUaId":104,"ru":"Авдеевка","ua":"Авдіївка","en":"Avdiyivka"}
+{"robotaUaId":177,"ru":"Акимовка","ua":"Якимівка","en":"Iakymivka"}
+{"robotaUaId":246,"ru":"Александрия","ua":"Олександрія","en":"Oleksandriia"}
+{"robotaUaId":105,"ru":"Александровка, Донецкая обл.","ua":"Олександрівка, Донецька обл.","en":"Oleksandrivka"}
+{"robotaUaId":247,"ru":"Александровка, Кировоградская обл.","ua":"Олександрівка, Кіровоградська обл.","en":"Oleksandrivka"}
+{"robotaUaId":868,"ru":"Александровка, Одесская обл.","ua":"Олександрівка, Одеська обл.","en":"Oleksandrivka"}
+{"robotaUaId":950,"ru":"Алексеевка","ua":"Олексіївка","en":"Oleksiivka"}
+{"robotaUaId":549,"ru":"Алушта","ua":"Алушта","en":"Alushta"}
+{"robotaUaId":266,"ru":"Алчевск","ua":"Алчевськ","en":"Alchevsk"}
+{"robotaUaId":106,"ru":"Амвросиевка","ua":"Амвросіївка","en":"Amvrosiivka"}
+{"robotaUaId":335,"ru":"Ананьев","ua":"Ананьїв","en":"Ananyiv"}
+{"robotaUaId":619,"ru":"Андреевка","ua":"Андріївка","en":"Andryivka"}
+{"robotaUaId":141,"ru":"Андрушевка","ua":"Андрушівка","en":"Andrushivka"}
+{"robotaUaId":702,"ru":"Антоновка","ua":"Антонівка","en":"Antonovka"}
+{"robotaUaId":267,"ru":"Антрацит","ua":"Антрацит","en":"Antratsyt"}
+{"robotaUaId":78,"ru":"Апостолово","ua":"Апостолове","en":"Apostolove"}
+{"robotaUaId":317,"ru":"Арбузинка","ua":"Арбузинка","en":"Arbuzynka"}
+{"robotaUaId":550,"ru":"Армянск","ua":"Армянськ","en":"Armiansk"}
+{"robotaUaId":336,"ru":"Арциз","ua":"Арциз","en":"Artsyz"}
+{"robotaUaId":912,"ru":"Аскания-Нова","ua":"Асканія-Нова","en":"Askaniya-Nova"}
+{"robotaUaId":404,"ru":"Ахтырка","ua":"Охтирка","en":"Okhtyrka"}
+{"robotaUaId":713,"ru":"Бабаи","ua":"Бабаї","en":"Babayi"}
+{"robotaUaId":576,"ru":"Балаклея","ua":"Балаклія","en":"Balakleya"}
+{"robotaUaId":337,"ru":"Балта","ua":"Балта","en":"Balta"}
+{"robotaUaId":795,"ru":"Банилов","ua":"Банилів","en":"Banyliv"}
+{"robotaUaId":36,"ru":"Бар","ua":"Бар","en":"Bar"}
+{"robotaUaId":142,"ru":"Барановка","ua":"Баранівка","en":"Baranivka"}
+{"robotaUaId":634,"ru":"Барвенково","ua":"Барвінкове","en":"Barvynkove"}
+{"robotaUaId":214,"ru":"Барышевка","ua":"Баришівка","en":"Baryshivka"}
+{"robotaUaId":812,"ru":"Батятичи","ua":"Батятичі","en":"Batiatychi"}
+{"robotaUaId":517,"ru":"Бахмач","ua":"Бахмач","en":"Bakhmach"}
+{"robotaUaId":107,"ru":"Бахмут","ua":"Бахмут","en":"Bakhmut"}
+{"robotaUaId":551,"ru":"Бахчисарай","ua":"Бахчисарай","en":"Bakhchysaray"}
+{"robotaUaId":318,"ru":"Баштанка","ua":"Баштанка","en":"Bashtanka"}
+{"robotaUaId":627,"ru":"Безлюдовка","ua":"Безлюдівка","en":"Bezlyudivka"}
+{"robotaUaId":721,"ru":"Белая Криница","ua":"Біла Криниця","en":"Bila Krynytsya"}
+{"robotaUaId":215,"ru":"Белая Церковь","ua":"Біла Церква","en":"Bila Tserkva"}
+{"robotaUaId":338,"ru":"Белгород-Днестровский","ua":"Білгород-Дністровський","en":"Bilhorod-Dnistrovskyi"}
+{"robotaUaId":674,"ru":"Белицкое","ua":"Білицьке","en":"bilitske"}
+{"robotaUaId":268,"ru":"Беловодск","ua":"Біловодськ","en":"Bilovodsk"}
+{"robotaUaId":588,"ru":"Белогородка","ua":"Білогородка","en":"Belogorodka"}
+{"robotaUaId":552,"ru":"Белогорск","ua":"Білогірськ","en":"Bilohirsk"}
+{"robotaUaId":478,"ru":"Белогорье","ua":"Білогір\u0027я","en":"Bilohiria"}
+{"robotaUaId":459,"ru":"Белозерка","ua":"Білозерка","en":"Bilozerka"}
+{"robotaUaId":574,"ru":"Белозёрское","ua":"Білозерське","en":"Belozerskoe"}
+{"robotaUaId":269,"ru":"Белокуракино","ua":"Білокуракине","en":"Bilokurakyne"}
+{"robotaUaId":908,"ru":"Белолуцк","ua":"Білолуцьк","en":"Bilolutsk"}
+{"robotaUaId":405,"ru":"Белополье","ua":"Білопілля","en":"Bilopillia"}
+{"robotaUaId":339,"ru":"Беляевка","ua":"Біляївка","en":"Biliayivka"}
+{"robotaUaId":143,"ru":"Бердичев","ua":"Бердичів","en":"Berdychiv"}
+{"robotaUaId":178,"ru":"Бердянск","ua":"Бердянськ","en":"Berdiansk"}
+{"robotaUaId":164,"ru":"Берегово","ua":"Берегове","en":"Beregove"}
+{"robotaUaId":607,"ru":"Берегомет","ua":"Берегомет","en":"Beregomet"}
+{"robotaUaId":421,"ru":"Бережаны","ua":"Бережани","en":"Berezhany"}
+{"robotaUaId":319,"ru":"Березанка","ua":"Березанка","en":"Berezanka"}
+{"robotaUaId":216,"ru":"Березань","ua":"Березань","en":"Berezan"}
+{"robotaUaId":853,"ru":"Березна","ua":"Березна","en":"Berezna"}
+{"robotaUaId":320,"ru":"Березнеговатое","ua":"Березнегувате","en":"Bereznehuvate"}
+{"robotaUaId":388,"ru":"Березно","ua":"Березне","en":"Berezne"}
+{"robotaUaId":837,"ru":"Березовка, Житомирская обл.","ua":"Березівка, Житомирська обл.","en":"Berezivka"}
+{"robotaUaId":819,"ru":"Березовка, Киевская обл.","ua":"Березівка, Київська обл.","en":"Berezivka"}
+{"robotaUaId":340,"ru":"Березовка, Одесская обл.","ua":"Березівка, Одеська обл.","en":"Berezivka"}
+{"robotaUaId":659,"ru":"Берестечко","ua":"Берестечко","en":"Berestechko"}
+{"robotaUaId":807,"ru":"Беримовцы","ua":"Беримівці","en":"Berymivtsi"}
+{"robotaUaId":460,"ru":"Берислав","ua":"Берислав","en":"Beryslav"}
+{"robotaUaId":37,"ru":"Бершадь","ua":"Бершадь","en":"Bershad"}
+{"robotaUaId":186,"ru":"Бильмак","ua":"Більмак","en":"Bilmak"}
+{"robotaUaId":923,"ru":"Бисковичи","ua":"Бісковичі","en":"Biskovychi"}
+{"robotaUaId":264,"ru":"Благовещенское","ua":"Благовіщенське","en":"Blahovishchenske"}
+{"robotaUaId":1042,"ru":"Благодатное","ua":"Благодатне","en":"Blahodatne"}
+{"robotaUaId":597,"ru":"Близнюки","ua":"Близнюки","en":"Bliznyuky"}
+{"robotaUaId":248,"ru":"Бобринец","ua":"Бобринець","en":"Bobrynets"}
+{"robotaUaId":1085,"ru":"Бобрица","ua":"Бобриця","en":"Bobrytsya"}
+{"robotaUaId":660,"ru":"Бобрка","ua":"Бібрка","en":"Bibrka"}
+{"robotaUaId":518,"ru":"Бобровица","ua":"Бобровиця","en":"Bobrovytsia"}
+{"robotaUaId":570,"ru":"Богодухов","ua":"Богодухів","en":"Bogoduhov"}
+{"robotaUaId":198,"ru":"Богородчаны","ua":"Богородчани","en":"Bohorodchany"}
+{"robotaUaId":217,"ru":"Богуслав","ua":"Богуслав","en":"Bohuslav"}
+{"robotaUaId":135,"ru":"Бойковское","ua":"Бойківське","en":"Boikivske"}
+{"robotaUaId":341,"ru":"Болград","ua":"Болград","en":"Bolhrad"}
+{"robotaUaId":199,"ru":"Болехов","ua":"Болехів","en":"Bolekhiv"}
+{"robotaUaId":179,"ru":"Большая Белозерка","ua":"Велика Білозерка","en":"Velyka Bilozerka"}
+{"robotaUaId":874,"ru":"Большой Буялык","ua":"Великий Буялик","en":"Velykyi Buyalyk"}
+{"robotaUaId":519,"ru":"Борзна","ua":"Борзна","en":"Borzna"}
+{"robotaUaId":294,"ru":"Борислав","ua":"Борислав","en":"Boryslav"}
+{"robotaUaId":218,"ru":"Борисполь","ua":"Бориспіль","en":"Boryspil"}
+{"robotaUaId":768,"ru":"Боровая, Киевская обл.","ua":"Борова, Київська обл.","en":"Borova"}
+{"robotaUaId":614,"ru":"Боровая, Харьковская обл.","ua":"Борова, Харківська обл.","en":"Borova"}
+{"robotaUaId":219,"ru":"Бородянка","ua":"Бородянка","en":"Borodianka"}
+{"robotaUaId":832,"ru":"Боромля","ua":"Боромля","en":"Boromlya"}
+{"robotaUaId":698,"ru":"Бортничи","ua":"Бортничі","en":"Bortnychi"}
+{"robotaUaId":422,"ru":"Борщев","ua":"Борщів","en":"Borshchiv"}
+{"robotaUaId":220,"ru":"Боярка","ua":"Боярка","en":"Boiarka"}
+{"robotaUaId":321,"ru":"Братское","ua":"Братське","en":"Bratske"}
+{"robotaUaId":963,"ru":"Брацлав","ua":"Брацлав","en":"Bratslav"}
+{"robotaUaId":221,"ru":"Бровары","ua":"Бровари","en":"Brovary"}
+{"robotaUaId":295,"ru":"Броды","ua":"Броди","en":"Brody"}
+{"robotaUaId":794,"ru":"Брошнев","ua":"Брошнів","en":"Broshniv"}
+{"robotaUaId":938,"ru":"Брошнев-Осада","ua":"Брошнів-Осада","en":"Broshniv-Osada"}
+{"robotaUaId":144,"ru":"Брусилов","ua":"Брусилів","en":"Brusyliv"}
+{"robotaUaId":1059,"ru":"Брюховичи","ua":"Брюховичі","en":"Briukhovychi"}
+{"robotaUaId":270,"ru":"Брянка","ua":"Брянка","en":"Brianka"}
+{"robotaUaId":1082,"ru":"Будище","ua":"Будище","en":"Budyshche"}
+{"robotaUaId":642,"ru":"Буды","ua":"Буди","en":"Budy"}
+{"robotaUaId":822,"ru":"Буки, Киевская обл.","ua":"Буки, Київська обл.","en":"Buky"}
+{"robotaUaId":769,"ru":"Буковель","ua":"Буковель","en":"Bukovel"}
+{"robotaUaId":589,"ru":"Бурштын","ua":"Бурштин","en":"Burshtyn"}
+{"robotaUaId":406,"ru":"Бурынь","ua":"Буринь","en":"Buryn"}
+{"robotaUaId":296,"ru":"Буск","ua":"Буськ","en":"Busk"}
+{"robotaUaId":222,"ru":"Буча","ua":"Буча","en":"Bucha"}
+{"robotaUaId":423,"ru":"Бучач","ua":"Бучач","en":"Buchach"}
+{"robotaUaId":685,"ru":"Буштыно","ua":"Буштино","en":"Bushtino"}
+{"robotaUaId":840,"ru":"Быстрик","ua":"Бистрик","en":"Bystryk"}
+{"robotaUaId":895,"ru":"Бышев","ua":"Бишів","en":"Byshiv"}
+{"robotaUaId":622,"ru":"Валки","ua":"Валки","en":"Valky"}
+{"robotaUaId":779,"ru":"Валява","ua":"Валява","en":"Valyava"}
+{"robotaUaId":647,"ru":"Вапнярка","ua":"Вапнярка","en":"Vapniarka"}
+{"robotaUaId":398,"ru":"Вараш","ua":"Вараш","en":"Varash"}
+{"robotaUaId":520,"ru":"Варва","ua":"Варва","en":"Varva"}
+{"robotaUaId":180,"ru":"Васильевка","ua":"Василівка","en":"Vasylivka"}
+{"robotaUaId":223,"ru":"Васильков","ua":"Васильків","en":"Vasylkiv"}
+{"robotaUaId":79,"ru":"Васильковка","ua":"Васильківка","en":"Vasylkivka"}
+{"robotaUaId":808,"ru":"Васильковцы","ua":"Васильківці","en":"Vasylkivtsi"}
+{"robotaUaId":904,"ru":"Васищево","ua":"Васищеве","en":"Vasyshcheve"}
+{"robotaUaId":584,"ru":"Ватутино","ua":"Ватутіне","en":"Vatutino"}
+{"robotaUaId":1055,"ru":"Вашковцы","ua":"Вашківці","en":"Vashkivtsi"}
+{"robotaUaId":836,"ru":"Великая Александровка, Киевская обл.","ua":"Велика Олександрівка, Київська обл.","en":"Velyka Oleksandrivka"}
+{"robotaUaId":461,"ru":"Великая Александровка, Херсонская обл.","ua":"Велика Олександрівка, Херсонська обл.","en":"Velyka Oleksandrivka"}
+{"robotaUaId":363,"ru":"Великая Багачка","ua":"Велика Багачка","en":"Velyka Bahachka"}
+{"robotaUaId":944,"ru":"Великая Балка","ua":"Велика Балка","en":"Velyka Balka"}
+{"robotaUaId":727,"ru":"Великая Добронь","ua":"Велика Добронь","en":"Velyka Dobron"}
+{"robotaUaId":643,"ru":"Великая Дымерка","ua":"Велика Димерка","en":"Velyka Dymerka"}
+{"robotaUaId":462,"ru":"Великая Лепетиха","ua":"Велика Лепетиха","en":"Velyka Lepetykha"}
+{"robotaUaId":342,"ru":"Великая Михайловка","ua":"Велика Михайлівка","en":"Velyka Mykhaylivka"}
+{"robotaUaId":108,"ru":"Великая Новоселка","ua":"Велика Новосілка","en":"Velyka Novosilka"}
+{"robotaUaId":407,"ru":"Великая Писаревка","ua":"Велика Писарівка","en":"Velyka Pysarivka"}
+{"robotaUaId":593,"ru":"Великие Копани","ua":"Великі Копані","en":"Velyki Kopany"}
+{"robotaUaId":715,"ru":"Великие Лазы","ua":"Великі Лази","en":"Velyki Lazy"}
+{"robotaUaId":604,"ru":"Великие Мосты","ua":"Великі Мости","en":"Velyki Mosty"}
+{"robotaUaId":887,"ru":"Великие Сорочинцы","ua":"Великі Сорочинці","en":"Velyki Sorochyntsi"}
+{"robotaUaId":165,"ru":"Великий Березный","ua":"Великий Березний","en":"Velykyi Bereznyi"}
+{"robotaUaId":606,"ru":"Великий Бичков","ua":"Великий Бичків","en":"Velykiy Bychkiv"}
+{"robotaUaId":438,"ru":"Великий Бурлук","ua":"Великий Бурлук","en":"Velykyi Burluk"}
+{"robotaUaId":699,"ru":"Великий Дальник","ua":"Великий Дальник","en":"Velikiy Dalnik"}
+{"robotaUaId":939,"ru":"Великий Кучуров","ua":"Великий Кучурів","en":"Velikij Kuchurov"}
+{"robotaUaId":623,"ru":"Великодолинское","ua":"Великодолинське","en":"Velykodolynske"}
+{"robotaUaId":811,"ru":"Великое Колодно","ua":"Велике Колодно","en":"Velyke Kolodno"}
+{"robotaUaId":906,"ru":"Великосёлки","ua":"Великосілки","en":"Velykosilky"}
+{"robotaUaId":676,"ru":"Вербки","ua":"Вербки","en":"verbky"}
+{"robotaUaId":854,"ru":"Вересневое","ua":"Вересневе","en":"Veresneve"}
+{"robotaUaId":765,"ru":"Вертиевка","ua":"Вертіївка","en":"Vertiyivka"}
+{"robotaUaId":80,"ru":"Верхнеднепровск","ua":"Верхньодніпровськ","en":"Verkhniodniprovsk"}
+{"robotaUaId":463,"ru":"Верхний Рогачик","ua":"Верхній Рогачик","en":"Verkhniy Rohachyk"}
+{"robotaUaId":200,"ru":"Верховина","ua":"Верховина","en":"Verkhovyna"}
+{"robotaUaId":657,"ru":"Верховцево","ua":"Верхівцево","en":"Verkhivtseve"}
+{"robotaUaId":322,"ru":"Веселиново","ua":"Веселинове","en":"Veselynove"}
+{"robotaUaId":181,"ru":"Веселое","ua":"Веселе","en":"Vesele"}
+{"robotaUaId":538,"ru":"Вижница","ua":"Вижниця","en":"Vyzhnytsia"}
+{"robotaUaId":905,"ru":"Визирка","ua":"Визирка","en":"Vyzyrka"}
+{"robotaUaId":661,"ru":"Вилково","ua":"Вилкове","en":"Vylkove"}
+{"robotaUaId":636,"ru":"Винники","ua":"Винники","en":"Vinnyky"}
+{"robotaUaId":880,"ru":"Винницкие Хутора","ua":"Вінницькі Хутори","en":"Vinnytski Khutory"}
+{"robotaUaId":166,"ru":"Виноградов","ua":"Виноградів","en":"Vynohradiv"}
+{"robotaUaId":479,"ru":"Виньковцы","ua":"Віньківці","en":"Vinkivtsi"}
+{"robotaUaId":752,"ru":"Вита-Почтовая","ua":"Віта-Поштова","en":"Vita-Poshtova"}
+{"robotaUaId":1050,"ru":"Витвица","ua":"Витвиця","en":"Vytvytsia"}
+{"robotaUaId":571,"ru":"Вишневое","ua":"Вишневе","en":"Vyshneve"}
+{"robotaUaId":62,"ru":"Владимир-Волынский","ua":"Володимир-Волинський","en":"Volodymyr-Volynskyi"}
+{"robotaUaId":389,"ru":"Владимирец","ua":"Володимирець","en":"Volodymyrets"}
+{"robotaUaId":886,"ru":"Владимировка","ua":"Володимирівка","en":"Volodymyrivka"}
+{"robotaUaId":951,"ru":"Власовка","ua":"Власівка","en":"Vlasivka"}
+{"robotaUaId":323,"ru":"Вознесенск","ua":"Вознесенськ","en":"Voznesensk"}
+{"robotaUaId":928,"ru":"Войнилов","ua":"Войнилів","en":"Voynyliv"}
+{"robotaUaId":109,"ru":"Волноваха","ua":"Волноваха","en":"Volnovakha"}
+{"robotaUaId":167,"ru":"Воловец","ua":"Воловець","en":"Volovets"}
+{"robotaUaId":224,"ru":"Володарка","ua":"Володарка","en":"Volodarka"}
+{"robotaUaId":480,"ru":"Волочиск","ua":"Волочиськ","en":"Volochysk"}
+{"robotaUaId":439,"ru":"Волчанск","ua":"Вовчанськ","en":"Vovchansk"}
+{"robotaUaId":81,"ru":"Вольногорск","ua":"Вільногірськ","en":"Vilnohirsk"}
+{"robotaUaId":182,"ru":"Вольнянск","ua":"Вільнянськ","en":"Vilniansk"}
+{"robotaUaId":225,"ru":"Ворзель","ua":"Ворзель","en":"Vorzel"}
+{"robotaUaId":771,"ru":"Ворожба","ua":"Ворожба","en":"Vorozhba"}
+{"robotaUaId":881,"ru":"Вороновица","ua":"Вороновиця","en":"Voronovytsia"}
+{"robotaUaId":750,"ru":"Вороньков","ua":"Вороньків","en":"Voronkiv"}
+{"robotaUaId":690,"ru":"Ворохта","ua":"Ворохта","en":"Vorokhta"}
+{"robotaUaId":324,"ru":"Врадиевка","ua":"Врадіївка","en":"Vradiyivka"}
+{"robotaUaId":942,"ru":"Выгода","ua":"Вигода","en":"Vyhoda"}
+{"robotaUaId":817,"ru":"Выров","ua":"Вирів","en":"Vyriv"}
+{"robotaUaId":653,"ru":"Высокий","ua":"Високий","en":"Vysokiy"}
+{"robotaUaId":464,"ru":"Высокополье","ua":"Високопілля","en":"Vysokopillia"}
+{"robotaUaId":226,"ru":"Вышгород","ua":"Вишгород","en":"Vyshhorod"}
+{"robotaUaId":777,"ru":"Гавриловка","ua":"Гаврилівка","en":"Gavrylivka"}
+{"robotaUaId":364,"ru":"Гадяч","ua":"Гадяч","en":"Hadiach"}
+{"robotaUaId":249,"ru":"Гайворон","ua":"Гайворон","en":"Hayvoron"}
+{"robotaUaId":38,"ru":"Гайсин","ua":"Гайсин","en":"Haysyn"}
+{"robotaUaId":201,"ru":"Галич","ua":"Галич","en":"Halych"}
+{"robotaUaId":716,"ru":"Гатное","ua":"Гатне","en":"Gatne"}
+{"robotaUaId":1089,"ru":"Гельмязов","ua":"Гельмязів","en":"Helmiaziv"}
+{"robotaUaId":465,"ru":"Геническ","ua":"Генічеськ","en":"Henichesk"}
+{"robotaUaId":842,"ru":"Геническая Горка","ua":"Генічеська Гірка","en":"Henicheska Hirka"}
+{"robotaUaId":539,"ru":"Герца","ua":"Герца","en":"Hertsa"}
+{"robotaUaId":793,"ru":"Глебовка","ua":"Глібівка","en":"Glibivka"}
+{"robotaUaId":684,"ru":"Глеваха","ua":"Глеваха","en":"Hlevakha"}
+{"robotaUaId":365,"ru":"Глобино","ua":"Глобино","en":"Hlobyno"}
+{"robotaUaId":847,"ru":"Глубокое","ua":"Глибоке","en":"Glubokoe"}
+{"robotaUaId":408,"ru":"Глухов","ua":"Глухів","en":"Hlukhiv"}
+{"robotaUaId":540,"ru":"Глыбокая","ua":"Глибока","en":"Hlyboka"}
+{"robotaUaId":592,"ru":"Гнедин","ua":"Гнідин","en":"Gnidyn"}
+{"robotaUaId":618,"ru":"Гнивань","ua":"Гнівань","en":"Gnyvan"}
+{"robotaUaId":934,"ru":"Говтвянчик","ua":"Говтвянчик","en":"Govtvyanchyk"}
+{"robotaUaId":744,"ru":"Гоголев","ua":"Гоголів","en":"Hoholiv"}
+{"robotaUaId":1049,"ru":"Гоголево","ua":"Гоголеве","en":"Gogoleve"}
+{"robotaUaId":466,"ru":"Голая Пристань","ua":"Гола Пристань","en":"Hola Prystan"}
+{"robotaUaId":250,"ru":"Голованевск","ua":"Голованівськ","en":"Golovanivsk"}
+{"robotaUaId":1083,"ru":"Головно","ua":"Головне","en":"Holovne"}
+{"robotaUaId":271,"ru":"Голубовка","ua":"Голубівка","en":"Holubivka"}
+{"robotaUaId":1053,"ru":"Голынь","ua":"Голинь","en":"Holyn"}
+{"robotaUaId":748,"ru":"Гора","ua":"Гора","en":"Hora"}
+{"robotaUaId":737,"ru":"Гореничи","ua":"Гореничі","en":"Gorenichi"}
+{"robotaUaId":792,"ru":"Горенка","ua":"Горенка","en":"Gorenka"}
+{"robotaUaId":372,"ru":"Горишние Плавни","ua":"Горішні Плавні","en":"Horishni Plavni"}
+{"robotaUaId":30,"ru":"Горловка","ua":"Горлівка","en":"Horlivka"}
+{"robotaUaId":467,"ru":"Горностаевка","ua":"Горностаївка","en":"Hornostayivka"}
+{"robotaUaId":921,"ru":"Горняк","ua":"Гірник","en":"Hirnyk"}
+{"robotaUaId":202,"ru":"Городенка","ua":"Городенка","en":"Horodenka"}
+{"robotaUaId":834,"ru":"Городище, Киевская обл.","ua":"Городище, Київська обл.","en":"gorodyshche"}
+{"robotaUaId":498,"ru":"Городище, Черкасская обл.","ua":"Городище, Черкаська обл.","en":"Horodyshche"}
+{"robotaUaId":844,"ru":"Городище, Черниговская обл.","ua":"Городище, Чернігівська обл.","en":"Gorodishche"}
+{"robotaUaId":521,"ru":"Городня","ua":"Городня","en":"Horodnia"}
+{"robotaUaId":297,"ru":"Городок, Львовская обл.","ua":"Городок, Львівська обл.","en":"Horodok"}
+{"robotaUaId":701,"ru":"Городок, Ровненская обл.","ua":"Городок, Рівненська обл.","en":"Horodok"}
+{"robotaUaId":481,"ru":"Городок, Хмельницкая обл.","ua":"Городок, Хмельницька обл.","en":"Horodok"}
+{"robotaUaId":63,"ru":"Горохов","ua":"Горохів","en":"Horokhiv"}
+{"robotaUaId":723,"ru":"Гостинцово","ua":"Гостинцеве","en":"Gostintseve"}
+{"robotaUaId":575,"ru":"Гостомель","ua":"Гостомель","en":"Gostomel"}
+{"robotaUaId":390,"ru":"Гоща","ua":"Гоща","en":"Hoshcha"}
+{"robotaUaId":625,"ru":"Градижск","ua":"Градизьк","en":"Gradyzk"}
+{"robotaUaId":366,"ru":"Гребенка","ua":"Гребінка","en":"Grebinka"}
+{"robotaUaId":673,"ru":"Гребёнки","ua":"Гребінки","en":"Hrebinky"}
+{"robotaUaId":902,"ru":"Григоровка","ua":"Григорівка","en":"Hryhorivka"}
+{"robotaUaId":762,"ru":"Губиниха","ua":"Губиниха","en":"Hubynykha"}
+{"robotaUaId":183,"ru":"Гуляйполе","ua":"Гуляйполе","en":"Huliaypole"}
+{"robotaUaId":424,"ru":"Гусятин","ua":"Гусятин","en":"Husiatyn"}
+{"robotaUaId":707,"ru":"Давыдов","ua":"Давидів","en":"Davydiv"}
+{"robotaUaId":941,"ru":"Дачное","ua":"Дачне","en":"Dachne"}
+{"robotaUaId":440,"ru":"Двуречная","ua":"Дворічна","en":"Dvorichna"}
+{"robotaUaId":111,"ru":"Дебальцево","ua":"Дебальцеве","en":"Debaltseve"}
+{"robotaUaId":603,"ru":"Делятин","ua":"Делятин","en":"Delyatyn"}
+{"robotaUaId":391,"ru":"Демидовка","ua":"Демидівка","en":"Demydivka"}
+{"robotaUaId":482,"ru":"Деражня","ua":"Деражня","en":"Derazhnia"}
+{"robotaUaId":441,"ru":"Дергачи","ua":"Дергачі","en":"Derhachi"}
+{"robotaUaId":553,"ru":"Джанкой","ua":"Джанкой","en":"Dzhankoy"}
+{"robotaUaId":796,"ru":"Дзвонковое","ua":"Дзвінкове","en":"Dzvinkove"}
+{"robotaUaId":367,"ru":"Диканька","ua":"Диканька","en":"Dykanka"}
+{"robotaUaId":957,"ru":"Дмитровка","ua":"Дмитрівка","en":"Dmytrivka"}
+{"robotaUaId":573,"ru":"Днепрорудное","ua":"Дніпрорудне","en":"Dneprorudnoe"}
+{"robotaUaId":251,"ru":"Добровеличковка","ua":"Добровеличківка","en":"Dobrovelychkivka"}
+{"robotaUaId":806,"ru":"Доброводы","ua":"Доброводи","en":"Dobrovody"}
+{"robotaUaId":586,"ru":"Добромиль","ua":"Добромиль","en":"Dobromil"}
+{"robotaUaId":114,"ru":"Доброполье","ua":"Добропілля","en":"Dobropillia"}
+{"robotaUaId":773,"ru":"Доброслав","ua":"Доброслав","en":"Dobroslav"}
+{"robotaUaId":675,"ru":"Добротвор","ua":"Добротвір","en":"dobrotvir"}
+{"robotaUaId":601,"ru":"Довбыш","ua":"Довбиш","en":"Dovbysh"}
+{"robotaUaId":115,"ru":"Докучаевск","ua":"Докучаївськ","en":"Dokuchayivsk"}
+{"robotaUaId":287,"ru":"Должанск","ua":"Довжанськ","en":"Dovzhansk"}
+{"robotaUaId":203,"ru":"Долина","ua":"Долина","en":"Dolyna"}
+{"robotaUaId":252,"ru":"Долинская","ua":"Долинська","en":"Dolynska"}
+{"robotaUaId":325,"ru":"Доманевка","ua":"Доманівка","en":"Domanivka"}
+{"robotaUaId":783,"ru":"Донец","ua":"Донець","en":"Donets"}
+{"robotaUaId":499,"ru":"Драбов","ua":"Драбів","en":"Drabiv"}
+{"robotaUaId":929,"ru":"Драгобрат","ua":"Драгобрат","en":"Drahobrat"}
+{"robotaUaId":298,"ru":"Дрогобыч","ua":"Дрогобич","en":"Drohobych"}
+{"robotaUaId":678,"ru":"Дружба","ua":"Дружба","en":"Drugba"}
+{"robotaUaId":116,"ru":"Дружковка","ua":"Дружківка","en":"Druzhkivka"}
+{"robotaUaId":852,"ru":"Дружня","ua":"Дружня","en":"Druzhnia"}
+{"robotaUaId":644,"ru":"Дубляны","ua":"Дубляни","en":"Dubliany"}
+{"robotaUaId":392,"ru":"Дубно","ua":"Дубно","en":"Dubno"}
+{"robotaUaId":598,"ru":"Дубовое","ua":"Дубове","en":"Dubove"}
+{"robotaUaId":393,"ru":"Дубровица","ua":"Дубровиця","en":"Dubrovytsia"}
+{"robotaUaId":924,"ru":"Дубровка","ua":"Дубрівка","en":"Dubrivka"}
+{"robotaUaId":861,"ru":"Дударков","ua":"Дударків","en":"Dudarkov"}
+{"robotaUaId":483,"ru":"Дунаевцы","ua":"Дунаївці","en":"Dunayivtsi"}
+{"robotaUaId":615,"ru":"Дымер","ua":"Димер","en":"Dymer"}
+{"robotaUaId":554,"ru":"Евпатория","ua":"Євпаторія","en":"Yevpatoriia"}
+{"robotaUaId":326,"ru":"Еланец","ua":"Єланець","en":"Yelanets"}
+{"robotaUaId":948,"ru":"Елизаветовка","ua":"Єлизаветівка","en":"Yelyzavetivka"}
+{"robotaUaId":147,"ru":"Емильчино","ua":"Ємільчине","en":"Iemilchyne"}
+{"robotaUaId":117,"ru":"Енакиево","ua":"Єнакієве","en":"Yenakiyeve"}
+{"robotaUaId":500,"ru":"Жашков","ua":"Жашків","en":"Zhashkiv"}
+{"robotaUaId":662,"ru":"Ждановка","ua":"Жданівка","en":"Zhdanovka"}
+{"robotaUaId":917,"ru":"Жежелев","ua":"Жежелів","en":"Zhezheliv"}
+{"robotaUaId":764,"ru":"Железный Порт","ua":"Залізний Порт","en":"Zalizny Port"}
+{"robotaUaId":83,"ru":"Желтые Воды","ua":"Жовті Води","en":"Zhovti Vody"}
+{"robotaUaId":299,"ru":"Жидачов","ua":"Жидачів","en":"Zhydachiv"}
+{"robotaUaId":39,"ru":"Жмеринка","ua":"Жмеринка","en":"Zhmerynka"}
+{"robotaUaId":1041,"ru":"Жовтанцы","ua":"Жовтанці","en":"Zhovtantsi"}
+{"robotaUaId":300,"ru":"Жолква","ua":"Жовква","en":"Zhovkva"}
+{"robotaUaId":1086,"ru":"Жорниска","ua":"Жорниська","en":"Zhornyska"}
+{"robotaUaId":374,"ru":"Журавно","ua":"Журавно","en":"Zhuravno"}
+{"robotaUaId":629,"ru":"Заболотов","ua":"Заболотів","en":"Zabolotiv"}
+{"robotaUaId":888,"ru":"Заболотье","ua":"Заболоття","en":"Zabolottya"}
+{"robotaUaId":693,"ru":"Забучье","ua":"Забуччя","en":"Zabuchye"}
+{"robotaUaId":927,"ru":"Завада","ua":"Завада","en":"Zavada"}
+{"robotaUaId":756,"ru":"Заводское","ua":"Заводське","en":"Zavodske"}
+{"robotaUaId":717,"ru":"Зазимье","ua":"Зазим`я","en":"Zazimya"}
+{"robotaUaId":8,"ru":"Закарпатье","ua":"Закарпаття","en":"Zakarpattia"}
+{"robotaUaId":425,"ru":"Залещики","ua":"Заліщики","en":"Zalishchyky"}
+{"robotaUaId":631,"ru":"Заложцы","ua":"Залізці","en":"Zalyztsi"}
+{"robotaUaId":821,"ru":"Заможное, Житомирская обл.","ua":"Заможне, Житомирська обл.","en":"Zamozhne"}
+{"robotaUaId":1051,"ru":"Запытов","ua":"Запитів","en":"Zapytiv"}
+{"robotaUaId":394,"ru":"Заречное, Варашский р-н","ua":"Зарічне, Вараський р-н","en":"Zarichne"}
+{"robotaUaId":860,"ru":"Заря","ua":"Зоря","en":"Zoria"}
+{"robotaUaId":872,"ru":"Заря Труда","ua":"Зоря Труда","en":"Zorya Truda"}
+{"robotaUaId":541,"ru":"Заставна","ua":"Заставна","en":"Zastavna"}
+{"robotaUaId":689,"ru":"Затока","ua":"Затока","en":"Zatoka"}
+{"robotaUaId":361,"ru":"Захарьевка","ua":"Захарівка","en":"Zakharivka"}
+{"robotaUaId":442,"ru":"Зачепиловка","ua":"Зачепилівка","en":"Zachepylivka"}
+{"robotaUaId":426,"ru":"Збараж","ua":"Збараж","en":"Zbarazh"}
+{"robotaUaId":427,"ru":"Зборов","ua":"Зборів","en":"Zboriv"}
+{"robotaUaId":501,"ru":"Звенигородка","ua":"Звенигородка","en":"Zvenyhorodka"}
+{"robotaUaId":154,"ru":"Звягель","ua":"Звягель","en":"Zvyagel"}
+{"robotaUaId":227,"ru":"Згуровка","ua":"Згурівка","en":"Zgurivka"}
+{"robotaUaId":395,"ru":"Здолбунов","ua":"Здолбунів","en":"Zdolbuniv"}
+{"robotaUaId":572,"ru":"Зеленодольск","ua":"Зеленодольськ","en":"Zelenodolsk"}
+{"robotaUaId":368,"ru":"Зеньков","ua":"Зіньків","en":"Zinkiv"}
+{"robotaUaId":1046,"ru":"Зимна Вода","ua":"Зимна Вода","en":"Zymna Voda"}
+{"robotaUaId":443,"ru":"Змиев","ua":"Зміїв","en":"Zmiyiv"}
+{"robotaUaId":253,"ru":"Знаменка","ua":"Знам\u0027янка","en":"Znamianka"}
+{"robotaUaId":891,"ru":"Знаменка Вторая","ua":"Знам\u0027янка Друга","en":"Znam\u0027yanka Druha"}
+{"robotaUaId":502,"ru":"Золотоноша","ua":"Золотоноша","en":"Zolotonosha"}
+{"robotaUaId":301,"ru":"Золочев, Львовская обл.","ua":"Золочів, Львівська обл.","en":"Zolochiv"}
+{"robotaUaId":444,"ru":"Золочев, Харьковская обл.","ua":"Золочів, Харківська обл.","en":"Zolochiv"}
+{"robotaUaId":118,"ru":"Зугрэс","ua":"Зугрес","en":"Zugres"}
+{"robotaUaId":64,"ru":"Иваничи","ua":"Іваничі","en":"Ivanychi"}
+{"robotaUaId":228,"ru":"Иванков","ua":"Іванків","en":"Ivankiv"}
+{"robotaUaId":877,"ru":"Иванковичи","ua":"Іванковичі","en":"Ivankovychi"}
+{"robotaUaId":343,"ru":"Ивановка, Одесская обл.","ua":"Іванівка, Одеська обл.","en":"Ivanivka"}
+{"robotaUaId":468,"ru":"Ивановка, Херсонская обл.","ua":"Іванівка, Херсонська обл.","en":"Ivanivka"}
+{"robotaUaId":870,"ru":"Иваново","ua":"Іванове","en":"Ivanove"}
+{"robotaUaId":949,"ru":"Ивано-Франково","ua":"Івано-Франкове","en":"Ivano-Frankove"}
+{"robotaUaId":344,"ru":"Измаил","ua":"Ізмаїл","en":"Izmayil"}
+{"robotaUaId":445,"ru":"Изюм","ua":"Ізюм","en":"Izium"}
+{"robotaUaId":484,"ru":"Изяслав","ua":"Ізяслав","en":"Iziaslav"}
+{"robotaUaId":867,"ru":"Иличанка","ua":"Ілічанка","en":"Ilichanka"}
+{"robotaUaId":658,"ru":"Илларионово","ua":"Іларіонове","en":"illarionovo"}
+{"robotaUaId":40,"ru":"Ильинцы","ua":"Іллінці","en":"Illintsi"}
+{"robotaUaId":786,"ru":"Ингулец","ua":"Інгулець","en":"Inhulets"}
+{"robotaUaId":831,"ru":"Ирклиев","ua":"Іркліїв","en":"Irkliiv"}
+{"robotaUaId":229,"ru":"Ирпень","ua":"Ірпінь","en":"Irpin"}
+{"robotaUaId":168,"ru":"Иршава","ua":"Іршава","en":"Irshava"}
+{"robotaUaId":587,"ru":"Иршанск","ua":"Іршанськ","en":"Irschansk"}
+{"robotaUaId":556,"ru":"Ислам-Терек (Кировское)","ua":"Іслям-Терек (Кіровське)","en":"Islam-Terek"}
+{"robotaUaId":564,"ru":"Ички (Советский)","ua":"Ічкі (Совєтський)","en":"Ichki"}
+{"robotaUaId":522,"ru":"Ичня","ua":"Ічня","en":"Ichnia"}
+{"robotaUaId":230,"ru":"Кагарлык","ua":"Кагарлик","en":"Kaharlyk"}
+{"robotaUaId":292,"ru":"Кадиевка","ua":"Кадіївка","en":"Kadiivka"}
+{"robotaUaId":327,"ru":"Казанка","ua":"Казанка","en":"Kazanka"}
+{"robotaUaId":41,"ru":"Казатин","ua":"Козятин","en":"Koziatyn"}
+{"robotaUaId":469,"ru":"Каланчак","ua":"Каланчак","en":"Kalanchak"}
+{"robotaUaId":926,"ru":"Калинов","ua":"Калинів","en":"Kalyniv"}
+{"robotaUaId":774,"ru":"Калиновка, Броварской р-н, Киевская обл.","ua":"Калинівка, Броварський р-н, Київська обл.","en":"Kalynivka, Brovary dist"}
+{"robotaUaId":955,"ru":"Калиновка, Бучанский р-н, Киевская обл.","ua":"Калинівка, Бучанський р-н, Київська обл.","en":"Kalynivka, Bucha dist"}
+{"robotaUaId":610,"ru":"Калиновка, Васильковский р-н, Киевская обл.","ua":"Калинівка, Васильківський р-н, Київська обл.","en":"Kalynivka, Vasylkiv dist"}
+{"robotaUaId":42,"ru":"Калиновка, Винницкая обл.","ua":"Калинівка, Вінницька обл.","en":"Kalynivka"}
+{"robotaUaId":742,"ru":"Калита","ua":"Калита","en":"Kalyta"}
+{"robotaUaId":204,"ru":"Калуш","ua":"Калуш","en":"Kalush"}
+{"robotaUaId":485,"ru":"Каменец-Подольский","ua":"Кам\u0027янець-Подільський","en":"Kamianets-Podilskyi"}
+{"robotaUaId":503,"ru":"Каменка","ua":"Кам\u0027янка","en":"Kamenka"}
+{"robotaUaId":302,"ru":"Каменка-Бугская","ua":"Кам\u0027янка-Бузька","en":"Kamianka-Buzka"}
+{"robotaUaId":185,"ru":"Каменка-Днепровская","ua":"Кам\u0027янка-Дніпровська","en":"Kamianka-Dniprovska"}
+{"robotaUaId":82,"ru":"Каменское","ua":"Кам\u0027янське","en":"Kamianske"}
+{"robotaUaId":65,"ru":"Камень-Каширский","ua":"Камінь-Каширський","en":"Kamin-Kashyrskyi"}
+{"robotaUaId":504,"ru":"Канев","ua":"Канів","en":"Kaniv"}
+{"robotaUaId":369,"ru":"Карловка","ua":"Карлівка","en":"Karlivka"}
+{"robotaUaId":505,"ru":"Катеринополь","ua":"Катеринопіль","en":"Katerynopil"}
+{"robotaUaId":743,"ru":"Катюжанка","ua":"Катюжанка","en":"Katyuzhanka"}
+{"robotaUaId":470,"ru":"Каховка","ua":"Каховка","en":"Kakhovka"}
+{"robotaUaId":1071,"ru":"Квасилов","ua":"Квасилів","en":"Kvasyliv"}
+{"robotaUaId":960,"ru":"Квитневое","ua":"Квітневе","en":"Kvitneve"}
+{"robotaUaId":446,"ru":"Кегичевка","ua":"Кегичівка","en":"Kehychivka"}
+{"robotaUaId":542,"ru":"Кельменцы","ua":"Кельменці","en":"Kelmentsi"}
+{"robotaUaId":555,"ru":"Керчь","ua":"Керч","en":"Kerch"}
+{"robotaUaId":66,"ru":"Киверцы","ua":"Ківерці","en":"Kivertsi"}
+{"robotaUaId":346,"ru":"Килия","ua":"Кілія","en":"Kiliia"}
+{"robotaUaId":583,"ru":"Кирилловка","ua":"Кирилівка","en":"Kirillovka"}
+{"robotaUaId":935,"ru":"Кирнасовка","ua":"Кирнасівка","en":"Kyrnasivka"}
+{"robotaUaId":543,"ru":"Кицмань","ua":"Кіцмань","en":"Kitsman"}
+{"robotaUaId":639,"ru":"Клавдиево-Тарасово","ua":"Клавдієве-Тарасове","en":"Klavdiievo-Tarasove"}
+{"robotaUaId":609,"ru":"Клевань","ua":"Клевань","en":"Klevan"}
+{"robotaUaId":823,"ru":"Клесов","ua":"Клесів","en":"Klesiv"}
+{"robotaUaId":1066,"ru":"Клугино-Башкировка","ua":"Клугино-Башкирівка","en":"Kluhyno-Bashkyrivka"}
+{"robotaUaId":1044,"ru":"Княгининок","ua":"Княгининок","en":"Knyagininok"}
+{"robotaUaId":746,"ru":"Княжичи","ua":"Княжичі","en":"Knyazhychi"}
+{"robotaUaId":370,"ru":"Кобеляки","ua":"Кобеляки","en":"Kobeliaky"}
+{"robotaUaId":624,"ru":"Коблево","ua":"Коблеве","en":"Koblevo"}
+{"robotaUaId":67,"ru":"Ковель","ua":"Ковель","en":"Kovel"}
+{"robotaUaId":686,"ru":"Ковшаровка","ua":"Ківшарівка","en":"Kovsharovka"}
+{"robotaUaId":347,"ru":"Кодыма","ua":"Кодима","en":"Kodyma"}
+{"robotaUaId":523,"ru":"Козелец","ua":"Козелець","en":"Kozelets"}
+{"robotaUaId":371,"ru":"Козельщина","ua":"Козельщина","en":"Kozelshchyna"}
+{"robotaUaId":753,"ru":"Козин","ua":"Козин","en":"Kozyn"}
+{"robotaUaId":428,"ru":"Козова","ua":"Козова","en":"Kozova"}
+{"robotaUaId":613,"ru":"Колки","ua":"Колки","en":"Kolky"}
+{"robotaUaId":447,"ru":"Коломак","ua":"Коломак","en":"Kolomak"}
+{"robotaUaId":205,"ru":"Коломыя","ua":"Коломия","en":"Kolomyia"}
+{"robotaUaId":663,"ru":"Комарно","ua":"Комарно","en":"Komarno"}
+{"robotaUaId":348,"ru":"Коминтерновское","ua":"Комінтернівське","en":"Kominternivske"}
+{"robotaUaId":254,"ru":"Компанеевка","ua":"Компаніївка","en":"Kompaniivka"}
+{"robotaUaId":409,"ru":"Конотоп","ua":"Конотоп","en":"Konotop"}
+{"robotaUaId":120,"ru":"Константиновка","ua":"Костянтинівка","en":"Kostiantynivka"}
+{"robotaUaId":632,"ru":"Копычинцы","ua":"Копичинці","en":"Kopytchyntsi"}
+{"robotaUaId":396,"ru":"Корец","ua":"Корець","en":"Korets"}
+{"robotaUaId":1079,"ru":"Королёво","ua":"Королево","en":"Korolevo"}
+{"robotaUaId":524,"ru":"Короп","ua":"Короп","en":"Korop"}
+{"robotaUaId":148,"ru":"Коростень","ua":"Коростень","en":"Korosten"}
+{"robotaUaId":149,"ru":"Коростышев","ua":"Коростишів","en":"Korostyshiv"}
+{"robotaUaId":865,"ru":"Корсунцы","ua":"Корсунці","en":"Korsuntsi"}
+{"robotaUaId":506,"ru":"Корсунь-Шевченковский","ua":"Корсунь-Шевченківський","en":"Korsun-Shevchenkivskyi"}
+{"robotaUaId":525,"ru":"Корюковка","ua":"Корюківка","en":"Koriukivka"}
+{"robotaUaId":691,"ru":"Космач","ua":"Космач","en":"Kosmach"}
+{"robotaUaId":206,"ru":"Косов","ua":"Косів","en":"Kosiv"}
+{"robotaUaId":397,"ru":"Костополь","ua":"Костопіль","en":"Kostopil"}
+{"robotaUaId":373,"ru":"Котельва","ua":"Котельва","en":"Kotelva"}
+{"robotaUaId":945,"ru":"Котовка","ua":"Котовка","en":"Kotovka"}
+{"robotaUaId":735,"ru":"Коцюбинское","ua":"Коцюбинське","en":"Kotsyubynske"}
+{"robotaUaId":725,"ru":"Краковец","ua":"Краковець","en":"Krakovets"}
+{"robotaUaId":121,"ru":"Краматорск","ua":"Краматорськ","en":"Kramatorsk"}
+{"robotaUaId":486,"ru":"Красилов","ua":"Красилів","en":"Krasyliv"}
+{"robotaUaId":747,"ru":"Красиловка","ua":"Красилівка","en":"Krasylivka"}
+{"robotaUaId":448,"ru":"Красноград","ua":"Красноград","en":"Krasnohrad"}
+{"robotaUaId":918,"ru":"Красное","ua":"Красне","en":"Krasnoye"}
+{"robotaUaId":449,"ru":"Краснокутск","ua":"Краснокутськ","en":"Krasnokutsk"}
+{"robotaUaId":672,"ru":"Краснопавловка","ua":"Краснопавлівка","en":"Krasnopavlivka"}
+{"robotaUaId":410,"ru":"Краснополье","ua":"Краснопілля","en":"Krasnopillia"}
+{"robotaUaId":866,"ru":"Красносёлка","ua":"Красносілка","en":"Krasnosilka"}
+{"robotaUaId":1063,"ru":"Красятичи","ua":"Красятичі","en":"Krasyatychi"}
+{"robotaUaId":429,"ru":"Кременец","ua":"Кременець","en":"Kremenets"}
+{"robotaUaId":274,"ru":"Кременная, Луганская обл.","ua":"Кремінна, Луганська обл.","en":"Kreminna"}
+{"robotaUaId":803,"ru":"Кременная, Хмельницкая обл.","ua":"Кремінна, Хмельницька обл.","en":"Kreminna"}
+{"robotaUaId":35,"ru":"Кременчуг","ua":"Кременчук","en":"Kremenchug"}
+{"robotaUaId":873,"ru":"Кремидовка","ua":"Кремидівка","en":"Kremydivka"}
+{"robotaUaId":328,"ru":"Кривое Озеро","ua":"Криве Озеро","en":"Kryve Ozero"}
+{"robotaUaId":84,"ru":"Кринички","ua":"Кринички","en":"Krynychky"}
+{"robotaUaId":411,"ru":"Кролевец","ua":"Кролевець","en":"Krolevets"}
+{"robotaUaId":1052,"ru":"Крупец","ua":"Крупець","en":"Krupets"}
+{"robotaUaId":722,"ru":"Крыжановка","ua":"Крижанівка","en":"Kryzhanivka"}
+{"robotaUaId":43,"ru":"Крыжополь","ua":"Крижопіль","en":"Kryzhopil"}
+{"robotaUaId":12,"ru":"Крым","ua":"Крим","en":"Krym"}
+{"robotaUaId":730,"ru":"Крюковщина","ua":"Крюківщина","en":"Kryukivshchyna"}
+{"robotaUaId":896,"ru":"Кублич","ua":"Кублич","en":"Kublych"}
+{"robotaUaId":526,"ru":"Куликовка","ua":"Куликівка","en":"Kulykivka"}
+{"robotaUaId":1076,"ru":"Кульчин","ua":"Кульчин","en":"Kul?chyn"}
+{"robotaUaId":450,"ru":"Купянск","ua":"Куп\u0027янськ","en":"Kupiansk"}
+{"robotaUaId":608,"ru":"Курахово","ua":"Курахове","en":"Kurakhove"}
+{"robotaUaId":557,"ru":"Курман (Красногвардейское)","ua":"Курман (Красногвардійське)","en":"Kurman"}
+{"robotaUaId":953,"ru":"Курортное","ua":"Курортне","en":"Kurortne"}
+{"robotaUaId":843,"ru":"Куты","ua":"Кути","en":"Kuta"}
+{"robotaUaId":763,"ru":"Кучурган","ua":"Кучурган","en":"Kuchurgan"}
+{"robotaUaId":44,"ru":"Ладыжин","ua":"Ладижин","en":"Ladyzhyn"}
+{"robotaUaId":879,"ru":"Лазурное","ua":"Лазурне","en":"Lazurne"}
+{"robotaUaId":430,"ru":"Лановцы","ua":"Ланівці","en":"Lanivtsi"}
+{"robotaUaId":954,"ru":"Ланчин","ua":"Ланчин","en":"Lanchyn"}
+{"robotaUaId":864,"ru":"Латовка","ua":"Латівка","en":"Lativka"}
+{"robotaUaId":849,"ru":"Лебедёвка","ua":"Лебедівка","en":"Lebedivka"}
+{"robotaUaId":412,"ru":"Лебедин","ua":"Лебедин","en":"Lebedyn"}
+{"robotaUaId":932,"ru":"Лелюховка","ua":"Лелюхівка","en":"Lelyuhivka"}
+{"robotaUaId":559,"ru":"Ленино","ua":"Леніне","en":"Lenine"}
+{"robotaUaId":862,"ru":"Лески","ua":"Ліски","en":"Lisky"}
+{"robotaUaId":718,"ru":"Лесники","ua":"Лісники","en":"Lisnyky"}
+{"robotaUaId":487,"ru":"Летичев","ua":"Летичів","en":"Letychiv"}
+{"robotaUaId":123,"ru":"Лиман, Донецкая обл.","ua":"Лиман, Донецька обл.","en":"Lyman"}
+{"robotaUaId":825,"ru":"Лиман, Харьковская обл.","ua":"Лиман, Харківська обл.","en":"Lyman"}
+{"robotaUaId":700,"ru":"Лиманка","ua":"Лиманка","en":"Lymanka"}
+{"robotaUaId":413,"ru":"Липовая Долина","ua":"Липова Долина","en":"Lypova Dolyna"}
+{"robotaUaId":45,"ru":"Липовец","ua":"Липовець","en":"Lypovets"}
+{"robotaUaId":820,"ru":"Липцы","ua":"Липці","en":"Lyptsi"}
+{"robotaUaId":275,"ru":"Лисичанск","ua":"Лисичанськ","en":"Lysychansk"}
+{"robotaUaId":46,"ru":"Литин","ua":"Літин","en":"Lityn"}
+{"robotaUaId":451,"ru":"Лозовая","ua":"Лозова","en":"Lozova"}
+{"robotaUaId":68,"ru":"Локачи","ua":"Локачі","en":"Lokachi"}
+{"robotaUaId":857,"ru":"Ломачинцы","ua":"Ломачинці","en":"Lomachyntsi"}
+{"robotaUaId":375,"ru":"Лохвица","ua":"Лохвиця","en":"Lokhvytsia"}
+{"robotaUaId":376,"ru":"Лубны","ua":"Лубни","en":"Lubny"}
+{"robotaUaId":150,"ru":"Лугины","ua":"Лугини","en":"Luhyny"}
+{"robotaUaId":892,"ru":"Лужаны","ua":"Лужани","en":"Luzhany"}
+{"robotaUaId":890,"ru":"Луков","ua":"Луків","en":"Lukiv"}
+{"robotaUaId":276,"ru":"Лутугино","ua":"Лутугине","en":"Lutuhyne"}
+{"robotaUaId":507,"ru":"Лысянка","ua":"Лисянка","en":"Lysianka"}
+{"robotaUaId":151,"ru":"Любар","ua":"Любар","en":"Liubar"}
+{"robotaUaId":351,"ru":"Любашевка","ua":"Любашівка","en":"Liubashivka"}
+{"robotaUaId":69,"ru":"Любешов","ua":"Любешів","en":"Liubeshiv"}
+{"robotaUaId":1054,"ru":"Любимовка","ua":"Любимівка","en":"Lyubymivka"}
+{"robotaUaId":70,"ru":"Любомль","ua":"Любомль","en":"Liuboml"}
+{"robotaUaId":641,"ru":"Люботин","ua":"Люботин","en":"Liubotyn"}
+{"robotaUaId":766,"ru":"Людвище","ua":"Людвище","en":"Ludwishche"}
+{"robotaUaId":731,"ru":"Лютеж","ua":"Лютіж","en":"Lyutizh"}
+{"robotaUaId":826,"ru":"Магала","ua":"Магала","en":"Mahala"}
+{"robotaUaId":85,"ru":"Магдалиновка","ua":"Магдалинівка","en":"Mahdalynivka"}
+{"robotaUaId":232,"ru":"Макаров","ua":"Макарів","en":"Makariv"}
+{"robotaUaId":124,"ru":"Макеевка","ua":"Макіївка","en":"Makiyivka"}
+{"robotaUaId":255,"ru":"Малая Виска","ua":"Мала Виска","en":"Mala Vyska"}
+{"robotaUaId":596,"ru":"Малая Даниловка","ua":"Мала Данилівка","en":"Mala Danylivka"}
+{"robotaUaId":1073,"ru":"Малехов","ua":"Малехів","en":"Malekhiv"}
+{"robotaUaId":152,"ru":"Малин","ua":"Малин","en":"Malyn"}
+{"robotaUaId":1065,"ru":"Малиновка","ua":"Малинівка","en":"Malynivka"}
+{"robotaUaId":901,"ru":"Малодолинское","ua":"Малодолинське","en":"Malodolynske"}
+{"robotaUaId":936,"ru":"Малополовецкое","ua":"Малополовецьке","en":"Malopolovetske"}
+{"robotaUaId":889,"ru":"Малые Сорочинцы","ua":"Малі Сорочинці","en":"Mali Sorochintsi"}
+{"robotaUaId":814,"ru":"Малый Любень","ua":"Малий Любінь","en":"Malyi Liubin"}
+{"robotaUaId":781,"ru":"Мамаивцы","ua":"Мамаївці","en":"Mamayivtsi"}
+{"robotaUaId":125,"ru":"Мангуш","ua":"Мангуш","en":"Manhush"}
+{"robotaUaId":71,"ru":"Маневичи","ua":"Маневичі","en":"Manevychi"}
+{"robotaUaId":508,"ru":"Маньковка","ua":"Маньківка","en":"Mankivka"}
+{"robotaUaId":86,"ru":"Марганец","ua":"Марганець","en":"Marhanets"}
+{"robotaUaId":277,"ru":"Марковка","ua":"Марківка","en":"Markivka"}
+{"robotaUaId":767,"ru":"Мартусовка","ua":"Мартусівка","en":"Martusivka"}
+{"robotaUaId":126,"ru":"Марьинка","ua":"Мар\u0027їнка","en":"Mariinka"}
+{"robotaUaId":377,"ru":"Машевка","ua":"Машівка","en":"Mashivka"}
+{"robotaUaId":711,"ru":"Маяки","ua":"Маяки","en":"Mayaky"}
+{"robotaUaId":1062,"ru":"Меденичи","ua":"Меденичі","en":"Medenychi"}
+{"robotaUaId":760,"ru":"Меджибож","ua":"Меджибіж","en":"Medzhibizh"}
+{"robotaUaId":169,"ru":"Межгорье","ua":"Міжгір\u0027я","en":"Mizhhiria"}
+{"robotaUaId":87,"ru":"Межевая","ua":"Межова","en":"Mezhova"}
+{"robotaUaId":187,"ru":"Мелитополь","ua":"Мелітополь","en":"Melitopol"}
+{"robotaUaId":278,"ru":"Меловое","ua":"Мілове","en":"Milove"}
+{"robotaUaId":527,"ru":"Мена","ua":"Мена","en":"Mena"}
+{"robotaUaId":452,"ru":"Мерефа","ua":"Мерефа","en":"Merefa"}
+{"robotaUaId":875,"ru":"Мещанка","ua":"Міщанка","en":"Mishchanka"}
+{"robotaUaId":720,"ru":"Мигия","ua":"Мигія","en":"Myhiya"}
+{"robotaUaId":1058,"ru":"Мизоч","ua":"Мізоч","en":"Mizoch"}
+{"robotaUaId":705,"ru":"Микуличи","ua":"Микуличі","en":"Mikulichi"}
+{"robotaUaId":859,"ru":"Микуличин","ua":"Микуличин","en":"Mikulichin"}
+{"robotaUaId":736,"ru":"Мила","ua":"Мила","en":"Myla"}
+{"robotaUaId":378,"ru":"Миргород","ua":"Миргород","en":"Myrhorod"}
+{"robotaUaId":113,"ru":"Мирноград","ua":"Мирноград","en":"Myrnohrad"}
+{"robotaUaId":916,"ru":"Мирное","ua":"Мирне","en":"Myrne"}
+{"robotaUaId":233,"ru":"Мироновка","ua":"Миронівка","en":"Myronivka"}
+{"robotaUaId":915,"ru":"Миротин","ua":"Миротин","en":"Myrotyn"}
+{"robotaUaId":188,"ru":"Михайловка, Запорожская обл.","ua":"Михайлівка, Запорізька обл.","en":"Mykhaylivka"}
+{"robotaUaId":1048,"ru":"Михайловка, Полтавская обл.","ua":"Михайлівка, Полтавська обл.","en":"Mykhaylivka"}
+{"robotaUaId":1061,"ru":"Михайло-Коцюбинское","ua":"Михайло-Коцюбинське","en":"Mihajlo-Kocyubinske"}
+{"robotaUaId":399,"ru":"Млинов","ua":"Млинів","en":"Mlyniv"}
+{"robotaUaId":728,"ru":"Млыново","ua":"Млинове","en":"Mlynove"}
+{"robotaUaId":47,"ru":"Могилев-Подольский","ua":"Могилів-Подільський","en":"Mohyliv-Podilskyi"}
+{"robotaUaId":958,"ru":"Молочанск","ua":"Молочанськ","en":"Molochansk"}
+{"robotaUaId":431,"ru":"Монастыриска","ua":"Монастириська","en":"Monastyryska"}
+{"robotaUaId":509,"ru":"Монастырище","ua":"Монастирище","en":"Monastyryshche"}
+{"robotaUaId":590,"ru":"Моршин","ua":"Моршин","en":"Morshyn"}
+{"robotaUaId":582,"ru":"Моспино","ua":"Моспине","en":"Mospyno"}
+{"robotaUaId":303,"ru":"Мостиска","ua":"Мостиська","en":"Mostyska"}
+{"robotaUaId":761,"ru":"Мрия","ua":"Мрія","en":"Mriya"}
+{"robotaUaId":170,"ru":"Мукачево","ua":"Мукачево","en":"Mukachevo"}
+{"robotaUaId":940,"ru":"Мурованое","ua":"Муроване","en":"Murovane"}
+{"robotaUaId":48,"ru":"Мурованые Куриловцы","ua":"Муровані Курилівці","en":"Murovani Kurylivtsi"}
+{"robotaUaId":910,"ru":"Мусиевка","ua":"Мусіївка","en":"Musiyivka"}
+{"robotaUaId":1088,"ru":"Мытница","ua":"Митниця","en":"Mytnytsya"}
+{"robotaUaId":805,"ru":"Мякоты","ua":"М`якоти","en":"Miakoty"}
+{"robotaUaId":207,"ru":"Надворная","ua":"Надвірна","en":"Nadvirna"}
+{"robotaUaId":153,"ru":"Народичи","ua":"Народичі","en":"Narodychi"}
+{"robotaUaId":414,"ru":"Недригайлов","ua":"Недригайлів","en":"Nedrygailiv"}
+{"robotaUaId":528,"ru":"Нежин","ua":"Ніжин","en":"Nizhyn"}
+{"robotaUaId":616,"ru":"Немешаево","ua":"Немішаєве","en":"Nemyshayeve"}
+{"robotaUaId":1040,"ru":"Немиринцы","ua":"Немиринці","en":"Nemyryntsi"}
+{"robotaUaId":49,"ru":"Немиров","ua":"Немирів","en":"Nemyriv"}
+{"robotaUaId":913,"ru":"Нересница","ua":"Нересниця","en":"Neresnytsya"}
+{"robotaUaId":946,"ru":"Нерубайское","ua":"Нерубайське","en":"Nerubayske"}
+{"robotaUaId":488,"ru":"Нетешин","ua":"Нетішин","en":"Netishyn"}
+{"robotaUaId":560,"ru":"Нижнегорский","ua":"Нижньогірський","en":"Nyzhniohirskyi"}
+{"robotaUaId":471,"ru":"Нижние Серогозы","ua":"Нижні Сірогози","en":"Nyzhni Sirogozy"}
+{"robotaUaId":739,"ru":"Низшая Дубечня","ua":"Нижча Дубечня","en":"Nyzhcha Dubechnya"}
+{"robotaUaId":304,"ru":"Николаев, Львовская обл.","ua":"Миколаїв, Львівська обл.","en":"Mykolayiv"}
+{"robotaUaId":352,"ru":"Николаевка","ua":"Миколаївка","en":"Mykolayivka"}
+{"robotaUaId":664,"ru":"Николаевка, Донецкая обл.","ua":"Миколаївка, Донецька обл.","en":"Mykolayivka"}
+{"robotaUaId":110,"ru":"Никольское","ua":"Нікольське","en":"Nikolske"}
+{"robotaUaId":16,"ru":"Никополь","ua":"Нікополь","en":"Nikopol"}
+{"robotaUaId":714,"ru":"Новая Александровка","ua":"Нова Олександрівка","en":"Nova Oleksandrivka"}
+{"robotaUaId":830,"ru":"Новая Боровая","ua":"Нова Борова","en":"Nova Borova"}
+{"robotaUaId":453,"ru":"Новая Водолага","ua":"Нова Водолага","en":"Nova Vodolaha"}
+{"robotaUaId":863,"ru":"Новая Дофиновка","ua":"Нова Дофінівка","en":"Nova Dofinivka"}
+{"robotaUaId":472,"ru":"Новая Каховка","ua":"Нова Каховка","en":"Nova Kakhovka"}
+{"robotaUaId":778,"ru":"Новая Маячка","ua":"Нова Маячка","en":"Nova Mayachka"}
+{"robotaUaId":329,"ru":"Новая Одесса","ua":"Нова Одеса","en":"Nova Odesa"}
+{"robotaUaId":489,"ru":"Новая Ушица","ua":"Нова Ушиця","en":"Nova Ushytsia"}
+{"robotaUaId":256,"ru":"Новгородка","ua":"Новгородка","en":"Novhorodka"}
+{"robotaUaId":529,"ru":"Новгород-Северский","ua":"Новгород-Сіверський","en":"Novhorod-Siverskyi"}
+{"robotaUaId":127,"ru":"Новоазовск","ua":"Новоазовськ","en":"Novoazovsk"}
+{"robotaUaId":279,"ru":"Новоайдар","ua":"Новоайдар","en":"Novoaydar"}
+{"robotaUaId":838,"ru":"Новоалександровка","ua":"Новоолександрівка","en":"Novooleksandrivka"}
+{"robotaUaId":621,"ru":"Новоалексеевка","ua":"Новоолексіївка","en":"Novooleksyivka"}
+{"robotaUaId":257,"ru":"Новоархангельск","ua":"Новоархангельськ","en":"Novoarkhanhelsk"}
+{"robotaUaId":72,"ru":"Нововолынск","ua":"Нововолинськ","en":"Novovolynsk"}
+{"robotaUaId":473,"ru":"Нововоронцовка","ua":"Нововоронцовка","en":"Novovorontsovka"}
+{"robotaUaId":128,"ru":"Новогродовка","ua":"Новогродівка","en":"Novogrodivka"}
+{"robotaUaId":1087,"ru":"Новогуйвинское","ua":"Новогуйвинське","en":"Novohuyvyns?ke"}
+{"robotaUaId":579,"ru":"Новоднестровск","ua":"Новодністровськ","en":"Novodnestrovsk"}
+{"robotaUaId":827,"ru":"Новокалиново","ua":"Новокалинове","en":"Novokalynove"}
+{"robotaUaId":258,"ru":"Новомиргород","ua":"Новомиргород","en":"Novomyrhorod"}
+{"robotaUaId":88,"ru":"Новомосковск","ua":"Новомосковськ","en":"Novomoskovsk"}
+{"robotaUaId":189,"ru":"Новониколаевка","ua":"Новомиколаївка","en":"Novomykolayivka"}
+{"robotaUaId":280,"ru":"Новопсков","ua":"Новопсков","en":"Novopskov"}
+{"robotaUaId":544,"ru":"Новоселица","ua":"Новоселиця","en":"Novoselytsia"}
+{"robotaUaId":740,"ru":"Новоселки, Киевская обл.","ua":"Новосілки, Київська обл.","en":"Novosilky"}
+{"robotaUaId":815,"ru":"Новоселки, Львовская обл.","ua":"Новосілки, Львівська обл.","en":"Novosilky"}
+{"robotaUaId":655,"ru":"Новотроицкое, Донецкая обл.","ua":"Новотроїцьке, Донецька обл.","en":"Novotroitske"}
+{"robotaUaId":474,"ru":"Новотроицкое, Херсонская обл.","ua":"Новотроїцьке, Херсонська обл.","en":"Novotroyitske"}
+{"robotaUaId":259,"ru":"Новоукраинка","ua":"Новоукраїнка","en":"Novoukrayinka"}
+{"robotaUaId":577,"ru":"Новояворовск","ua":"Новояворівськ","en":"Novoyavorovsk"}
+{"robotaUaId":937,"ru":"Новые Безрадичи","ua":"Нові Безрадичі","en":"Novі Bezradichі"}
+{"robotaUaId":885,"ru":"Новые Белокоровичи","ua":"Нові Білокоровичі","en":"Novi Bilokorovychi"}
+{"robotaUaId":732,"ru":"Новые Петровцы","ua":"Нові Петрівці","en":"Novi Petrivtsi"}
+{"robotaUaId":379,"ru":"Новые Санжары","ua":"Нові Санжари","en":"Novi Sanzhary"}
+{"robotaUaId":330,"ru":"Новый Буг","ua":"Новий Буг","en":"Novyi Buh"}
+{"robotaUaId":956,"ru":"Новый Коротич","ua":"Новий Коротиці","en":"Novyy Korotych"}
+{"robotaUaId":602,"ru":"Новый Роздол","ua":"Новий Розділ","en":"Novyi Rozdil"}
+{"robotaUaId":530,"ru":"Носовка","ua":"Носівка","en":"Nosivka"}
+{"robotaUaId":234,"ru":"Обухов","ua":"Обухів","en":"Obukhiv"}
+{"robotaUaId":704,"ru":"Обуховка","ua":"Обухівка","en":"Obukhovka"}
+{"robotaUaId":353,"ru":"Овидиополь","ua":"Овідіополь","en":"Ovidiopol"}
+{"robotaUaId":155,"ru":"Овруч","ua":"Овруч","en":"Ovruch"}
+{"robotaUaId":920,"ru":"Ожидов","ua":"Ожидів","en":"Ozhydiv"}
+{"robotaUaId":350,"ru":"Окны","ua":"Окни","en":"Okny"}
+{"robotaUaId":156,"ru":"Олевск","ua":"Олевськ","en":"Olevsk"}
+{"robotaUaId":919,"ru":"Олеско","ua":"Олесько","en":"Olesko"}
+{"robotaUaId":476,"ru":"Олешки","ua":"Олешки","en":"Oleshky"}
+{"robotaUaId":620,"ru":"Олыка","ua":"Олика","en":"Olyka"}
+{"robotaUaId":260,"ru":"Ольшанка","ua":"Ольшанка","en":"Olshanka"}
+{"robotaUaId":833,"ru":"Ольшаны","ua":"Вільшани","en":"Vilshany"}
+{"robotaUaId":261,"ru":"Онуфриевка","ua":"Онуфріївка","en":"Onufriyivka"}
+{"robotaUaId":628,"ru":"Опошня","ua":"Опішня","en":"Opyshnya"}
+{"robotaUaId":50,"ru":"Оратов","ua":"Оратів","en":"Orativ"}
+{"robotaUaId":190,"ru":"Орехов","ua":"Оріхів","en":"Orikhiv"}
+{"robotaUaId":1056,"ru":"Оржев","ua":"Оржів","en":"Orzhiv"}
+{"robotaUaId":380,"ru":"Оржица","ua":"Оржиця","en":"Orzhytsia"}
+{"robotaUaId":755,"ru":"Орловщина","ua":"Орлівщина","en":"Orlovshchina"}
+{"robotaUaId":637,"ru":"Остер","ua":"Остер","en":"Oster"}
+{"robotaUaId":1084,"ru":"Острица","ua":"Остриця","en":"Ostrytsia"}
+{"robotaUaId":400,"ru":"Острог","ua":"Острог","en":"Ostroh"}
+{"robotaUaId":846,"ru":"Осыково","ua":"Осикове","en":"Osykove"}
+{"robotaUaId":640,"ru":"Отыния","ua":"Отинія","en":"Otynia"}
+{"robotaUaId":331,"ru":"Очаков","ua":"Очаків","en":"Ochakiv"}
+{"robotaUaId":788,"ru":"Очеретино","ua":"Очеретино","en":"Ocheretyno"}
+{"robotaUaId":90,"ru":"Павлоград","ua":"Павлоград","en":"Pavlohrad"}
+{"robotaUaId":677,"ru":"Павлыш","ua":"Павлиш","en":"Pavlish"}
+{"robotaUaId":799,"ru":"Панка","ua":"Панка","en":"Panka"}
+{"robotaUaId":1078,"ru":"Партизанское","ua":"Партизанське","en":"Partyzanske"}
+{"robotaUaId":281,"ru":"Первомайск, Луганская обл.","ua":"Первомайськ, Луганська обл.","en":"Pervomaysk"}
+{"robotaUaId":332,"ru":"Первомайск, Николаевская обл.","ua":"Первомайськ, Миколаївська обл.","en":"Pervomaysk"}
+{"robotaUaId":454,"ru":"Первомайский","ua":"Первомайський","en":"Pervomayskyi"}
+{"robotaUaId":561,"ru":"Первомайское","ua":"Первомайське","en":"Pervomayske"}
+{"robotaUaId":282,"ru":"Перевальск","ua":"Перевальськ","en":"Perevalsk"}
+{"robotaUaId":578,"ru":"Перегинское","ua":"Перегінське","en":"Pereginskoye"}
+{"robotaUaId":305,"ru":"Перемышляны","ua":"Перемишляни","en":"Peremyshliany"}
+{"robotaUaId":171,"ru":"Перечин","ua":"Перечин","en":"Perechyn"}
+{"robotaUaId":650,"ru":"Перещепино","ua":"Перещепине","en":"Pereschepyne"}
+{"robotaUaId":759,"ru":"Переяслав","ua":"Переяслав","en":"Pereyaslav"}
+{"robotaUaId":903,"ru":"Переяславское","ua":"Переяславське","en":"Pereyaslavske"}
+{"robotaUaId":235,"ru":"Переяслав-Хмельницкий","ua":"Переяслав-Хмельницький","en":"Pereiaslav-Khmelnytskyi"}
+{"robotaUaId":91,"ru":"Першотравенск","ua":"Першотравенськ","en":"Pershotravensk"}
+{"robotaUaId":871,"ru":"Першотравневое","ua":"Першотравневе","en":"Pershotravneve"}
+{"robotaUaId":638,"ru":"Песковка","ua":"Пісківка","en":"Piskivka"}
+{"robotaUaId":687,"ru":"Песочин","ua":"Пісочин","en":"Pisochin"}
+{"robotaUaId":51,"ru":"Песчанка","ua":"Піщанка","en":"Pischanka"}
+{"robotaUaId":952,"ru":"Петриков","ua":"Петриків","en":"Petrykiv"}
+{"robotaUaId":92,"ru":"Петриковка","ua":"Петриківка","en":"Petrykivka"}
+{"robotaUaId":1057,"ru":"Петровка-Роменская","ua":"Петрівка-Роменська","en":"Petrovka-Romenskaya"}
+{"robotaUaId":262,"ru":"Петрово","ua":"Петрове","en":"Petrove"}
+{"robotaUaId":1068,"ru":"Петровское","ua":"Петрівське","en":"Petrіvske"}
+{"robotaUaId":93,"ru":"Петропавловка","ua":"Петропавлівка","en":"Petropavlivka"}
+{"robotaUaId":738,"ru":"Петропавловская Борщаговка","ua":"Петропавлівська Борщагівка","en":"Petropavlivska Borshchahivka"}
+{"robotaUaId":455,"ru":"Печенеги","ua":"Печеніги","en":"Pechenihy"}
+{"robotaUaId":741,"ru":"Пирново","ua":"Пірнове","en":"Pirnove"}
+{"robotaUaId":381,"ru":"Пирятин","ua":"Пирятин","en":"Pyriatyn"}
+{"robotaUaId":828,"ru":"Плотыча","ua":"Плотича","en":"Plotycha"}
+{"robotaUaId":758,"ru":"Побугское","ua":"Побузьке","en":"Pobuzke"}
+{"robotaUaId":52,"ru":"Погребище","ua":"Погребище","en":"Pohrebyshche"}
+{"robotaUaId":780,"ru":"Погребы","ua":"Погреби","en":"Pogreby"}
+{"robotaUaId":432,"ru":"Подволочиск","ua":"Підволочиськ","en":"Pidvolochysk"}
+{"robotaUaId":824,"ru":"Подворки","ua":"Подвірки","en":"Podvirky"}
+{"robotaUaId":797,"ru":"Подворное","ua":"Подвірне","en":"Podvirne"}
+{"robotaUaId":433,"ru":"Подгайцы","ua":"Підгайці","en":"Pidhaytsi"}
+{"robotaUaId":635,"ru":"Подгородное","ua":"Підгородне","en":"Pidhorodne"}
+{"robotaUaId":349,"ru":"Подольск","ua":"Подільськ","en":"Podilsk"}
+{"robotaUaId":1081,"ru":"Подрясное","ua":"Підрясне","en":"Pidrasne"}
+{"robotaUaId":89,"ru":"Покров","ua":"Покров","en":"Pokrov"}
+{"robotaUaId":900,"ru":"Покровка","ua":"Покровка","en":"Pokrovka"}
+{"robotaUaId":122,"ru":"Покровск","ua":"Покровськ","en":"Pokrovsk"}
+{"robotaUaId":94,"ru":"Покровское","ua":"Покровське","en":"Pokrovske"}
+{"robotaUaId":236,"ru":"Полесское","ua":"Поліське","en":"Poliske"}
+{"robotaUaId":813,"ru":"Половое","ua":"Полове","en":"Polove"}
+{"robotaUaId":191,"ru":"Пологи","ua":"Пологи","en":"Polohy"}
+{"robotaUaId":490,"ru":"Полонное","ua":"Полонне","en":"Polonne"}
+{"robotaUaId":818,"ru":"Поляна","ua":"Поляна","en":"Polyana"}
+{"robotaUaId":231,"ru":"Поляница","ua":"Поляниця","en":"Polyanitsa"}
+{"robotaUaId":600,"ru":"Помошная","ua":"Помічна","en":"Pomichna"}
+{"robotaUaId":283,"ru":"Попасная","ua":"Попасна","en":"Popasna"}
+{"robotaUaId":157,"ru":"Попельня","ua":"Попільня","en":"Popilnia"}
+{"robotaUaId":434,"ru":"Почаев","ua":"Почаїв","en":"Pochayiv"}
+{"robotaUaId":192,"ru":"Приазовское","ua":"Приазовське","en":"Pryazovske"}
+{"robotaUaId":531,"ru":"Прилуки","ua":"Прилуки","en":"Pryluky"}
+{"robotaUaId":193,"ru":"Приморск","ua":"Приморськ","en":"Prymorsk"}
+{"robotaUaId":829,"ru":"Приморское","ua":"Приморське","en":"Prymorske"}
+{"robotaUaId":161,"ru":"Пулины","ua":"Пулини","en":"Pulyny"}
+{"robotaUaId":306,"ru":"Пустомыты","ua":"Пустомити","en":"Pustomyty"}
+{"robotaUaId":415,"ru":"Путивль","ua":"Путивль","en":"Putyvl"}
+{"robotaUaId":545,"ru":"Путила","ua":"Путила","en":"Putyla"}
+{"robotaUaId":782,"ru":"Пуща-Водица","ua":"Пуща-Водиця","en":"Pushcha-Vodytsa"}
+{"robotaUaId":95,"ru":"Пятихатки","ua":"П\u0027ятихатки","en":"Piatykhatky"}
+{"robotaUaId":580,"ru":"Рава-Русская","ua":"Рава-Руська","en":"Rava-Russkaya"}
+{"robotaUaId":307,"ru":"Радехов","ua":"Радехів","en":"Radekhiv"}
+{"robotaUaId":401,"ru":"Радивилов","ua":"Радивилів","en":"Radyvyliv"}
+{"robotaUaId":158,"ru":"Радомышль","ua":"Радомишль","en":"Radomyshl"}
+{"robotaUaId":355,"ru":"Раздельная","ua":"Роздільна","en":"Rozdilna"}
+{"robotaUaId":562,"ru":"Раздольное","ua":"Роздольне","en":"Rozdolne"}
+{"robotaUaId":237,"ru":"Ракитное, Киевская обл.","ua":"Рокитне, Київська обл.","en":"Rokytne"}
+{"robotaUaId":925,"ru":"Ралевка","ua":"Ралівка","en":"Ralivka"}
+{"robotaUaId":73,"ru":"Ратно","ua":"Ратне","en":"Ratne"}
+{"robotaUaId":172,"ru":"Рахов, Закарпатская обл.","ua":"Рахів, Закарпатська обл.","en":"Rakhiv"}
+{"robotaUaId":1070,"ru":"Рахов, Закарпатская обл.","ua":"Рахів, Закарпатська обл.","en":"Rakhiv"}
+{"robotaUaId":356,"ru":"Рени","ua":"Рені","en":"Reni"}
+{"robotaUaId":532,"ru":"Репки","ua":"Ріпки","en":"Ripky"}
+{"robotaUaId":382,"ru":"Решетиловка","ua":"Решетилівка","en":"Reshetylivka"}
+{"robotaUaId":645,"ru":"Ржищев","ua":"Ржищів","en":"Rzhyshchiv"}
+{"robotaUaId":284,"ru":"Ровеньки","ua":"Ровеньки","en":"Rovenky"}
+{"robotaUaId":931,"ru":"Ровное, Кировоградская обл.","ua":"Рівне, Кіровоградська обл.","en":"Rivne"}
+{"robotaUaId":208,"ru":"Рогатин","ua":"Рогатин","en":"Rohatyn"}
+{"robotaUaId":129,"ru":"Родинское","ua":"Родинське","en":"Rodynske"}
+{"robotaUaId":74,"ru":"Рожище","ua":"Рожище","en":"Rozhyshche"}
+{"robotaUaId":209,"ru":"Рожнятов","ua":"Рожнятів","en":"Rozhniativ"}
+{"robotaUaId":354,"ru":"Роздол","ua":"Розділ","en":"Rozdil"}
+{"robotaUaId":194,"ru":"Розовка","ua":"Розівка","en":"Rozivka"}
+{"robotaUaId":402,"ru":"Рокитное, Ровненская обл.","ua":"Рокитне, Рівненська обл.","en":"Rokytne"}
+{"robotaUaId":159,"ru":"Романов, Волынская обл.","ua":"Романів, Волинська обл.","en":"Romaniv"}
+{"robotaUaId":146,"ru":"Романов, Житомирская обл.","ua":"Романів, Житомирська обл.","en":"Romaniv"}
+{"robotaUaId":416,"ru":"Ромны","ua":"Ромни","en":"Romny"}
+{"robotaUaId":855,"ru":"Рославичи","ua":"Рославичі","en":"Roslavychi"}
+{"robotaUaId":809,"ru":"Росохач","ua":"Росохач","en":"Rosokhach"}
+{"robotaUaId":285,"ru":"Рубежное","ua":"Рубіжне","en":"Rubizhne"}
+{"robotaUaId":961,"ru":"Руденковка","ua":"Руденківка","en":"Rudenkivka"}
+{"robotaUaId":679,"ru":"Рудки","ua":"Рудки","en":"Rudki"}
+{"robotaUaId":708,"ru":"Рудно","ua":"Рудне","en":"Rudne"}
+{"robotaUaId":160,"ru":"Ружин","ua":"Ружин","en":"Ruzhyn"}
+{"robotaUaId":726,"ru":"Рясное-Русское","ua":"Рясне-Руське","en":"Ryasne-Ruske"}
+{"robotaUaId":790,"ru":"Савинцы","ua":"Савинці","en":"Savintsi"}
+{"robotaUaId":357,"ru":"Саврань","ua":"Саврань","en":"Savran"}
+{"robotaUaId":563,"ru":"Саки","ua":"Саки","en":"Saky"}
+{"robotaUaId":308,"ru":"Самбор","ua":"Самбір","en":"Sambir"}
+{"robotaUaId":358,"ru":"Сарата","ua":"Сарата","en":"Sarata"}
+{"robotaUaId":403,"ru":"Сарны","ua":"Сарни","en":"Sarny"}
+{"robotaUaId":851,"ru":"Сартана","ua":"Сартана","en":"Sartana"}
+{"robotaUaId":784,"ru":"Сатанов","ua":"Сатанів","en":"Sataniv"}
+{"robotaUaId":456,"ru":"Сахновщина","ua":"Сахновщина","en":"Sakhnovshchyna"}
+{"robotaUaId":173,"ru":"Свалява","ua":"Свалява","en":"Svaliava"}
+{"robotaUaId":286,"ru":"Сватово","ua":"Сватове","en":"Svatove"}
+{"robotaUaId":263,"ru":"Светловодск","ua":"Світловодськ","en":"Svitlovodsk"}
+{"robotaUaId":665,"ru":"Светлодарск","ua":"Світлодарськ","en":"Svitlodarsk"}
+{"robotaUaId":869,"ru":"Светлое","ua":"Світле","en":"Svitle"}
+{"robotaUaId":649,"ru":"Святогорск","ua":"Святогірськ","en":"Svyatogirsk"}
+{"robotaUaId":594,"ru":"Святопетровское","ua":"Святопетрівське","en":"Sviatopetrivske"}
+{"robotaUaId":288,"ru":"Северодонецк","ua":"Сєвєродонецьк","en":"Sieverodonetsk"}
+{"robotaUaId":666,"ru":"Северск","ua":"Сіверськ","en":"Siversk"}
+{"robotaUaId":130,"ru":"Селидово","ua":"Селидове","en":"Selidove"}
+{"robotaUaId":1045,"ru":"Селище","ua":"Селище","en":"Selishche"}
+{"robotaUaId":383,"ru":"Семеновка, Полтавская обл.","ua":"Семенівка, Полтавська обл.","en":"Semenivka"}
+{"robotaUaId":533,"ru":"Семеновка, Черниговская обл.","ua":"Семенівка, Чернігівська обл.","en":"Semenivka"}
+{"robotaUaId":839,"ru":"Сергеевка","ua":"Сергіївка","en":"Serhiivka"}
+{"robotaUaId":417,"ru":"Середина-Буда","ua":"Середина-Буда","en":"Seredyna-Buda"}
+{"robotaUaId":96,"ru":"Синельниково","ua":"Синельникове","en":"Synelnykove"}
+{"robotaUaId":787,"ru":"Синяк","ua":"Синяк","en":"Sinyak"}
+{"robotaUaId":475,"ru":"Скадовск","ua":"Скадовськ","en":"Skadovsk"}
+{"robotaUaId":907,"ru":"Скала-Подольская","ua":"Скала-Подільська","en":"Skala-Podilska"}
+{"robotaUaId":884,"ru":"Скалат","ua":"Скалат","en":"Skalat"}
+{"robotaUaId":238,"ru":"Сквира","ua":"Сквира","en":"Skvyra"}
+{"robotaUaId":309,"ru":"Сколе","ua":"Сколе","en":"Skole"}
+{"robotaUaId":626,"ru":"Скороходово","ua":"Скороходове","en":"Skorohodove"}
+{"robotaUaId":724,"ru":"Славское","ua":"Славське","en":"Slavske"}
+{"robotaUaId":491,"ru":"Славута","ua":"Славута","en":"Slavuta"}
+{"robotaUaId":239,"ru":"Славутич","ua":"Славутич","en":"Slavutych"}
+{"robotaUaId":289,"ru":"Славяносербск","ua":"Слов\u0027яносербськ","en":"Slovianoserbsk"}
+{"robotaUaId":131,"ru":"Славянск","ua":"Слов\u0027янськ","en":"Sloviansk"}
+{"robotaUaId":671,"ru":"Слобожанское, Днепропетровская обл.","ua":"Слобожанське, Дніпропетровська обл.","en":"slobozhanskoe"}
+{"robotaUaId":595,"ru":"Слобожанское, Харьковская обл.","ua":"Слобожанське, Харківська обл.","en":"Slobozhanske"}
+{"robotaUaId":510,"ru":"Смела","ua":"Сміла","en":"Smila"}
+{"robotaUaId":648,"ru":"Смолино","ua":"Смоліне","en":"Smolyne"}
+{"robotaUaId":882,"ru":"Смыга","ua":"Смига","en":"Smyha"}
+{"robotaUaId":132,"ru":"Снежное","ua":"Сніжне","en":"Snizhne"}
+{"robotaUaId":333,"ru":"Снигиревка","ua":"Снігурівка","en":"Snigurivka"}
+{"robotaUaId":537,"ru":"Сновск","ua":"Сновськ","en":"Snovsk"}
+{"robotaUaId":210,"ru":"Снятын","ua":"Снятин","en":"Sniatyn"}
+{"robotaUaId":310,"ru":"Сокаль","ua":"Сокаль","en":"Sokal"}
+{"robotaUaId":546,"ru":"Сокиряны","ua":"Сокиряни","en":"Sokyriany"}
+{"robotaUaId":709,"ru":"Сокольники","ua":"Сокільники","en":"Sokilnyky"}
+{"robotaUaId":876,"ru":"Солдатское","ua":"Солдатське","en":"Soldatske"}
+{"robotaUaId":133,"ru":"Соледар","ua":"Соледар","en":"Soledar"}
+{"robotaUaId":97,"ru":"Соленое","ua":"Солоне","en":"Solone"}
+{"robotaUaId":617,"ru":"Солоницевка","ua":"Солоницівка","en":"Solonytsivka"}
+{"robotaUaId":959,"ru":"Солонка","ua":"Солонка","en":"Solonka"}
+{"robotaUaId":835,"ru":"Солотвин","ua":"Солотвин","en":"Solotvyn"}
+{"robotaUaId":670,"ru":"Солотвино","ua":"Солотвино","en":"solotvino"}
+{"robotaUaId":272,"ru":"Сорокино","ua":"Сорокине","en":"Sorokyne"}
+{"robotaUaId":534,"ru":"Сосница","ua":"Сосниця","en":"Sosnytsia"}
+{"robotaUaId":630,"ru":"Сосновка","ua":"Соснівка","en":"Sosnivka"}
+{"robotaUaId":98,"ru":"Софиевка","ua":"Софіївка","en":"Sofiyivka"}
+{"robotaUaId":682,"ru":"Софиевская Борщаговка","ua":"Софіївська Борщагівка","en":"Sofievskaya Borshchagovka"}
+{"robotaUaId":791,"ru":"Сошников","ua":"Сошників","en":"Soshnikiv"}
+{"robotaUaId":535,"ru":"Сребное","ua":"Срібне","en":"Sribne"}
+{"robotaUaId":240,"ru":"Ставище","ua":"Ставище","en":"Stavyshche"}
+{"robotaUaId":290,"ru":"Станица Луганская","ua":"Станиця Луганська","en":"Stanytsia Luhanska"}
+{"robotaUaId":75,"ru":"Старая Выжевка","ua":"Стара Вижівка","en":"Stara Vyzhivka"}
+{"robotaUaId":492,"ru":"Старая Синява","ua":"Стара Синява","en":"Stara Syniava"}
+{"robotaUaId":291,"ru":"Старобельск","ua":"Старобільськ","en":"Starobilsk"}
+{"robotaUaId":134,"ru":"Старобешево","ua":"Старобешеве","en":"Starobesheve"}
+{"robotaUaId":878,"ru":"Старое","ua":"Старе","en":"Stare"}
+{"robotaUaId":493,"ru":"Староконстантинов","ua":"Старокостянтинів","en":"Starokostiantyniv"}
+{"robotaUaId":1039,"ru":"Старые Маяки","ua":"Старі Маяки","en":"Stari Mayaky"}
+{"robotaUaId":719,"ru":"Старые Петровцы","ua":"Старі Петрівці","en":"Stari Petrivtsi"}
+{"robotaUaId":810,"ru":"Старый Мартынов","ua":"Старий Мартинів","en":"Staryi Martyniv"}
+{"robotaUaId":1074,"ru":"Старый Салтов","ua":"Старий Салтів","en":"Staryy Saltiv"}
+{"robotaUaId":311,"ru":"Старый Самбор","ua":"Старий Самбір","en":"Staryi Sambir"}
+{"robotaUaId":656,"ru":"Стебник","ua":"Стебник","en":"Stebnyk"}
+{"robotaUaId":696,"ru":"Степановка","ua":"Степанівка","en":"Stepanivka"}
+{"robotaUaId":848,"ru":"Степногорск","ua":"Степногорську","en":"Stepnogorsk"}
+{"robotaUaId":547,"ru":"Сторожинец","ua":"Сторожинець","en":"Storozhynets"}
+{"robotaUaId":581,"ru":"Стоянка","ua":"Стоянка","en":"Stoyanka"}
+{"robotaUaId":1091,"ru":"Стре?птов","ua":"Стре?птів","en":"Streptiv"}
+{"robotaUaId":1090,"ru":"Стрелки","ua":"Стрілки","en":"Strilky"}
+{"robotaUaId":922,"ru":"Стрелковичи","ua":"Стрілковичі","en":"Strilkovychi"}
+{"robotaUaId":1064,"ru":"Стрижавка","ua":"Стрижавка","en":"Stryzhavka"}
+{"robotaUaId":312,"ru":"Стрый","ua":"Стрий","en":"Stryi"}
+{"robotaUaId":694,"ru":"Студеники","ua":"Студеники","en":"Studeniki"}
+{"robotaUaId":565,"ru":"Судак","ua":"Судак","en":"Sudak"}
+{"robotaUaId":612,"ru":"Судовая Вишня","ua":"Судова Вишня","en":"Sudova Vishnya"}
+{"robotaUaId":933,"ru":"Супруновка","ua":"Супрунівка","en":"Suprunivka"}
+{"robotaUaId":692,"ru":"Сходница","ua":"Східниця","en":"Skhodnitsa"}
+{"robotaUaId":688,"ru":"Счастливое","ua":"Щасливе","en":"Shchaslyve"}
+{"robotaUaId":845,"ru":"Счастливцево","ua":"Щасливцеве","en":"Shchaslyvtseve"}
+{"robotaUaId":651,"ru":"Счастье","ua":"Щастя","en":"Shchastya"}
+{"robotaUaId":697,"ru":"Таврийск","ua":"Таврійськ","en":"Tavriysk"}
+{"robotaUaId":536,"ru":"Талалаевка","ua":"Талалаївка","en":"Talalayivka"}
+{"robotaUaId":511,"ru":"Тальное","ua":"Тальне","en":"Talne"}
+{"robotaUaId":646,"ru":"Тарасовка","ua":"Тарасівка","en":"Tarasovka"}
+{"robotaUaId":1069,"ru":"Тарасовцы","ua":"Тарасівці","en":"Tarasivtsi"}
+{"robotaUaId":241,"ru":"Тараща","ua":"Тараща","en":"Tarashcha"}
+{"robotaUaId":359,"ru":"Тарутино","ua":"Тарутине","en":"Tarutyne"}
+{"robotaUaId":360,"ru":"Татарбунары","ua":"Татарбунари","en":"Tatarbunary"}
+{"robotaUaId":914,"ru":"Татаров","ua":"Татарів","en":"Tatariv"}
+{"robotaUaId":494,"ru":"Теофиполь","ua":"Теофіполь","en":"Teofipol"}
+{"robotaUaId":53,"ru":"Теплик","ua":"Теплик","en":"Teplyk"}
+{"robotaUaId":652,"ru":"Теплодар","ua":"Теплодар","en":"Teplodar"}
+{"robotaUaId":435,"ru":"Теребовля","ua":"Теребовля","en":"Terebovlia"}
+{"robotaUaId":681,"ru":"Тересва","ua":"Тересва","en":"Teresva"}
+{"robotaUaId":1080,"ru":"Тересва, Закарпатская обл.","ua":"Тересва, Закарпатська обл.","en":"Teresva"}
+{"robotaUaId":99,"ru":"Терновка","ua":"Тернівка","en":"Ternivka"}
+{"robotaUaId":242,"ru":"Тетиев","ua":"Тетіїв","en":"Tetiyiv"}
+{"robotaUaId":894,"ru":"Тимошовка","ua":"Тимошівка","en":"Tymoshivka"}
+{"robotaUaId":211,"ru":"Тлумач","ua":"Тлумач","en":"Tlumach"}
+{"robotaUaId":850,"ru":"Токаревка","ua":"Токарівка","en":"Tokarivka"}
+{"robotaUaId":195,"ru":"Токмак","ua":"Токмак","en":"Tokmak"}
+{"robotaUaId":883,"ru":"Толстое","ua":"Товсте","en":"Tovste"}
+{"robotaUaId":100,"ru":"Томаковка","ua":"Томаківка","en":"Tomakivka"}
+{"robotaUaId":54,"ru":"Томашполь","ua":"Томашпіль","en":"Tomashpil"}
+{"robotaUaId":1047,"ru":"Топоровцы","ua":"Топорівці","en":"Toporivtsi"}
+{"robotaUaId":112,"ru":"Торецк","ua":"Торецьк","en":"Toretsk"}
+{"robotaUaId":599,"ru":"Торчин","ua":"Торчин","en":"Torchyn"}
+{"robotaUaId":745,"ru":"Требухов","ua":"Требухів","en":"Trebukhiv"}
+{"robotaUaId":695,"ru":"Троицкое (Довгалевское), Киевская обл.","ua":"Троїцьке (Довгалівське), Київська обл.","en":"Ttroitske"}
+{"robotaUaId":293,"ru":"Троицкое, Луганская обл.","ua":"Троїцьке, Луганська обл.","en":"Troyitske"}
+{"robotaUaId":55,"ru":"Тростянец, Винницкая обл.","ua":"Тростянець, Вінницька обл.","en":"Trostianets"}
+{"robotaUaId":418,"ru":"Тростянец, Сумская обл.","ua":"Тростянець, Сумська обл.","en":"Trostianets"}
+{"robotaUaId":313,"ru":"Трускавец","ua":"Трускавець","en":"Truskavets"}
+{"robotaUaId":56,"ru":"Тульчин","ua":"Тульчин","en":"Tulchyn"}
+{"robotaUaId":899,"ru":"Турбов","ua":"Турбів","en":"Turbiv"}
+{"robotaUaId":76,"ru":"Турийск","ua":"Турійськ","en":"Turiysk"}
+{"robotaUaId":314,"ru":"Турка","ua":"Турка","en":"Turka"}
+{"robotaUaId":57,"ru":"Тывров","ua":"Тиврів","en":"Tyvriv"}
+{"robotaUaId":801,"ru":"Тынная","ua":"Тинна","en":"Tynna"}
+{"robotaUaId":212,"ru":"Тысменица","ua":"Тисмениця","en":"Tysmenytsia"}
+{"robotaUaId":841,"ru":"Тютюнники","ua":"Тютюнники","en":"Tiutiunnyky"}
+{"robotaUaId":174,"ru":"Тячев","ua":"Тячів","en":"Tiachiv"}
+{"robotaUaId":137,"ru":"Угледар","ua":"Вугледар","en":"Vugledar"}
+{"robotaUaId":897,"ru":"Угнев","ua":"Угнів","en":"Uhniv"}
+{"robotaUaId":962,"ru":"Угринов","ua":"Угринів","en":"Uhryniv"}
+{"robotaUaId":591,"ru":"Узин","ua":"Узин","en":"Uzyn"}
+{"robotaUaId":243,"ru":"Украинка","ua":"Українка","en":"Ukrayinka"}
+{"robotaUaId":683,"ru":"Украинка","ua":"Українка","en":"Ukrayinka"}
+{"robotaUaId":858,"ru":"Украинск","ua":"Українськ","en":"Ukrayins`k"}
+{"robotaUaId":512,"ru":"Умань","ua":"Умань","en":"Uman"}
+{"robotaUaId":911,"ru":"Усатово","ua":"Усатове","en":"Usatove"}
+{"robotaUaId":265,"ru":"Устиновка","ua":"Устинівка","en":"Ustynivka"}
+{"robotaUaId":244,"ru":"Фастов","ua":"Фастів","en":"Fastiv"}
+{"robotaUaId":930,"ru":"Феневичи","ua":"Феневичі","en":"Fenevychi"}
+{"robotaUaId":566,"ru":"Феодосия","ua":"Феодосія","en":"Feodosiia"}
+{"robotaUaId":712,"ru":"Фонтанка","ua":"Фонтанка","en":"Fontanka"}
+{"robotaUaId":138,"ru":"Харцызск","ua":"Харцизьк","en":"Khartsyzk"}
+{"robotaUaId":776,"ru":"Хащеватое","ua":"Хащувате","en":"Khashchuwate"}
+{"robotaUaId":947,"ru":"Хлебодарское","ua":"Хлібодарське","en":"Khlibodarske"}
+{"robotaUaId":58,"ru":"Хмельник","ua":"Хмільник","en":"Khmilnyk"}
+{"robotaUaId":789,"ru":"Ходовичи","ua":"Ходовичі","en":"Khodovychi"}
+{"robotaUaId":605,"ru":"Ходоров","ua":"Ходорів","en":"Khodoriv"}
+{"robotaUaId":770,"ru":"Ходосовка","ua":"Ходосівка","en":"Hodosivka"}
+{"robotaUaId":943,"ru":"Холодная Балка","ua":"Холодна Балка","en":"Kholodna Balka"}
+{"robotaUaId":384,"ru":"Хорол","ua":"Хорол","en":"Khorol"}
+{"robotaUaId":633,"ru":"Хоростков","ua":"Хоростків","en":"Horostkiv"}
+{"robotaUaId":145,"ru":"Хорошев","ua":"Хорошів","en":"Khoroshiv"}
+{"robotaUaId":548,"ru":"Хотин","ua":"Хотин","en":"Khotyn"}
+{"robotaUaId":754,"ru":"Хотов","ua":"Хотів","en":"Khotiv"}
+{"robotaUaId":733,"ru":"Хотяновка","ua":"Хотянівка","en":"Khotyanivka"}
+{"robotaUaId":119,"ru":"Хрестовка","ua":"Хрестівка","en":"Khrestivka"}
+{"robotaUaId":1075,"ru":"Хриплин","ua":"Хриплин","en":"Khryplyn"}
+{"robotaUaId":513,"ru":"Христиновка","ua":"Христинівка","en":"Khrystynivka"}
+{"robotaUaId":273,"ru":"Хрустальный","ua":"Хрустальний","en":"Khrustalnyi"}
+{"robotaUaId":175,"ru":"Хуст","ua":"Хуст","en":"Khust"}
+{"robotaUaId":669,"ru":"Хыров","ua":"Хирів","en":"chyrow"}
+{"robotaUaId":101,"ru":"Царичанка","ua":"Царичанка","en":"Tsarychanka"}
+{"robotaUaId":1067,"ru":"Циркуны","ua":"Циркуни","en":"Tsyrkuny"}
+{"robotaUaId":611,"ru":"Цумань","ua":"Цумани","en":"Tsuman"}
+{"robotaUaId":184,"ru":"Чабаны","ua":"Чабани","en":"Chabany"}
+{"robotaUaId":1060,"ru":"Чагор","ua":"Чагор","en":"Cagor"}
+{"robotaUaId":668,"ru":"Чайки","ua":"Чайки","en":"chaika"}
+{"robotaUaId":477,"ru":"Чаплинка","ua":"Чаплинка","en":"Chaplynka"}
+{"robotaUaId":495,"ru":"Чемеровцы","ua":"Чемерівці","en":"Chemerivtsi"}
+{"robotaUaId":804,"ru":"Чепелевка","ua":"Чепелівка","en":"Chepelivka"}
+{"robotaUaId":775,"ru":"Чепилиевка","ua":"Чепиліївка","en":"Chepiliyivka"}
+{"robotaUaId":315,"ru":"Червоноград","ua":"Червоноград","en":"Chervonohrad"}
+{"robotaUaId":757,"ru":"Червоногригоровка","ua":"Червоногригорівка","en":"Chervonohryhorivka"}
+{"robotaUaId":802,"ru":"Черная","ua":"Чорна","en":"Chorna"}
+{"robotaUaId":667,"ru":"Черневцы, Винницкая обл.","ua":"Чернівці, Вінницька обл.","en":"Chernivtsi"}
+{"robotaUaId":1077,"ru":"Чернечий Яр","ua":"Чернечий Яр","en":"Chernechyi Yar"}
+{"robotaUaId":196,"ru":"Черниговка","ua":"Чернігівка","en":"Chernihivka"}
+{"robotaUaId":856,"ru":"Чернобаевка","ua":"Чорнобаївка","en":"Chornobaivka"}
+{"robotaUaId":514,"ru":"Чернобай","ua":"Чорнобай","en":"Chornobay"}
+{"robotaUaId":1072,"ru":"Чернолозцы","ua":"Чорнолізці","en":"Chornoliztsi"}
+{"robotaUaId":345,"ru":"Черноморск","ua":"Чорноморськ","en":"Chornomorsk"}
+{"robotaUaId":567,"ru":"Черноморское","ua":"Чорноморське","en":"Chornomorske"}
+{"robotaUaId":385,"ru":"Чернухи","ua":"Чорнухи","en":"Chornukhy"}
+{"robotaUaId":162,"ru":"Черняхов","ua":"Черняхів","en":"Cherniakhiv"}
+{"robotaUaId":59,"ru":"Чечельник","ua":"Чечельник","en":"Chechelnyk"}
+{"robotaUaId":515,"ru":"Чигирин","ua":"Чигирин","en":"Chyhyryn"}
+{"robotaUaId":785,"ru":"Чижовка","ua":"Чижівка","en":"Chyzhivka"}
+{"robotaUaId":136,"ru":"Чистяково","ua":"Чистякове","en":"Chystiakove"}
+{"robotaUaId":654,"ru":"Чкаловское","ua":"Чкаловське","en":"Chkalovske"}
+{"robotaUaId":176,"ru":"Чоп","ua":"Чоп","en":"Chop"}
+{"robotaUaId":436,"ru":"Чортков","ua":"Чортків","en":"Chortkiv"}
+{"robotaUaId":749,"ru":"Чубинское","ua":"Чубинське","en":"Chubynske"}
+{"robotaUaId":457,"ru":"Чугуев","ua":"Чугуїв","en":"Chuhuyiv"}
+{"robotaUaId":163,"ru":"Чуднов","ua":"Чуднів","en":"Chudniv"}
+{"robotaUaId":816,"ru":"Чуква","ua":"Чуква","en":"Chukva"}
+{"robotaUaId":898,"ru":"Чумаки","ua":"Чумаки","en":"Chumaki"}
+{"robotaUaId":386,"ru":"Чутово","ua":"Чутове","en":"Chutove"}
+{"robotaUaId":60,"ru":"Шаргород","ua":"Шаргород","en":"Sharhorod"}
+{"robotaUaId":139,"ru":"Шахтерск","ua":"Шахтарськ","en":"Shahtarsk"}
+{"robotaUaId":77,"ru":"Шацк","ua":"Шацьк","en":"Shatsk"}
+{"robotaUaId":458,"ru":"Шевченково","ua":"Шевченкове","en":"Shevchenkove"}
+{"robotaUaId":496,"ru":"Шепетовка","ua":"Шепетівка","en":"Shepetivka"}
+{"robotaUaId":102,"ru":"Широкое","ua":"Широке","en":"Shyroke"}
+{"robotaUaId":585,"ru":"Ширяево","ua":"Ширяєве","en":"Shiryaevo"}
+{"robotaUaId":387,"ru":"Шишаки","ua":"Шишаки","en":"Shyshaky"}
+{"robotaUaId":419,"ru":"Шостка","ua":"Шостка","en":"Shostka"}
+{"robotaUaId":516,"ru":"Шпола","ua":"Шпола","en":"Shpola"}
+{"robotaUaId":437,"ru":"Шумск","ua":"Шумськ","en":"Shumsk"}
+{"robotaUaId":568,"ru":"Щелкино","ua":"Щолкіне","en":"Scholkine"}
+{"robotaUaId":197,"ru":"Энергодар","ua":"Енергодар","en":"Enerhodar"}
+{"robotaUaId":334,"ru":"Южноукраинск","ua":"Южноукраїнськ","en":"Yuzhnoukrayinsk"}
+{"robotaUaId":362,"ru":"Южный","ua":"Южне","en":"Iuzhne"}
+{"robotaUaId":800,"ru":"Юринцы","ua":"Юринці","en":"Yurintsi"}
+{"robotaUaId":798,"ru":"Юрковцы","ua":"Юрківці","en":"Yurkivtsi"}
+{"robotaUaId":103,"ru":"Юрьевка","ua":"Юр\u0027ївка","en":"Yuryivka"}
+{"robotaUaId":316,"ru":"Яворов","ua":"Яворів","en":"Iavoriv"}
+{"robotaUaId":245,"ru":"Яготин","ua":"Яготин","en":"Iahotyn"}
+{"robotaUaId":772,"ru":"Ялта, Донецкая обл.","ua":"Ялта, Донецька обл.","en":"Yalta"}
+{"robotaUaId":569,"ru":"Ялта, Крым","ua":"Ялта, Крим","en":"Ialta"}
+{"robotaUaId":61,"ru":"Ямполь, Винницкая обл.","ua":"Ямпіль, Вінницька обл.","en":"Iampil"}
+{"robotaUaId":420,"ru":"Ямполь, Сумская обл.","ua":"Ямпіль, Сумська обл.","en":"Iampil"}
+{"robotaUaId":558,"ru":"Яны Капу (Красноперекопск)","ua":"Яни Капу (Красноперекопськ)","en":"Yany Kapu"}
+{"robotaUaId":213,"ru":"Яремче","ua":"Яремче","en":"Iaremche"}
+{"robotaUaId":909,"ru":"Яреськи","ua":"Яреськи","en":"Yaresky"}
+{"robotaUaId":497,"ru":"Ярмолинцы","ua":"Ярмолинці","en":"Iarmolyntsi"}
+{"robotaUaId":140,"ru":"Ясиноватая","ua":"Ясинувата","en":"Iasynuvata"}
+{"robotaUaId":680,"ru":"Ясиня","ua":"Ясіня","en":"Yasinia"}
