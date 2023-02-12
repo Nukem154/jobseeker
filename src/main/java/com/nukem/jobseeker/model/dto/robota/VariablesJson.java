@@ -74,8 +74,7 @@ public class VariablesJson {
 
         private static void readTxt(Map<String, String> params, VariablesJson variables) throws IOException {
             if (!Strings.isBlank(params.get("location"))) {
-                String windows = "D:\\Java Projects\\jobSeeker\\src\\main\\resources\\cities.txt";
-                String lambda = VariablesJson.class.getClassLoader().getResource("cities.txt").getFile();
+                String windows = "src\\main\\resources\\cities.txt";
                 final BufferedReader br = new BufferedReader(new FileReader(windows));
                 final List<City> list = new ArrayList<>();
                 String st;
