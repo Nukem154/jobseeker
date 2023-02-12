@@ -2,7 +2,7 @@
 {"robotaUaId":4,"ru":"Днепр","ua":"Дніпро","en":"Dnipro"}
 {"robotaUaId":6,"ru":"Донецк","ua":"Донецьк","en":"Donetsk"}
 {"robotaUaId":9,"ru":"Запорожье","ua":"Запоріжжя","en":"Zaporizhia"}
-{"robotaUaId":3,"ru":"Одесса","ua":"Одеса","en":"Odessa"}
+{"robotaUaId":3,"ru":"Одесса","ua":"Одеса","en":"Odesa"}
 {"robotaUaId":21,"ru":"Харьков","ua":"Харків","en":"Kharkiv"}
 {"robotaUaId":2,"ru":"Львов","ua":"Львів","en":"Lviv"}
 {"robotaUaId":34,"ru":"Другие страны","ua":"Інші країни","en":"Other countries"}
