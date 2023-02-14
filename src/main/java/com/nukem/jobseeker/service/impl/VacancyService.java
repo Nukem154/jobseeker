@@ -6,6 +6,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
@@ -21,10 +22,17 @@ public class VacancyService {
 
     @Cacheable(VACANCIES)
     public List<VacancyDto> findVacanciesFromAllResources(final Map<String, String> params) {
-        return jobFinders.stream()
+        final List<VacancyDto> vacancyList = jobFinders.stream()
                 .flatMap(jobFinder -> jobFinder.findVacancies(params).stream())
-                .sorted(Comparator.comparing(VacancyDto::getDate, Comparator.nullsLast(Comparator.reverseOrder())))
                 .collect(Collectors.toList());
+
+        /*
+            shuffling vacancies and then sorting them by date to make order of placeholders random
+        */
+        Collections.shuffle(vacancyList);
+        vacancyList.sort(Comparator.comparing(VacancyDto::getDate, Comparator.nullsLast(Comparator.reverseOrder())));
+
+        return vacancyList;
     }
 
 }
