@@ -3,8 +3,8 @@ package com.nukem.jobseeker.service.impl.robotaua;
 import com.google.gson.Gson;
 import com.nukem.jobseeker.constant.URL;
 import com.nukem.jobseeker.model.dto.VacancyDto;
-import com.nukem.jobseeker.model.dto.robota.VariablesJson;
 import com.nukem.jobseeker.service.JobFinder;
+import com.nukem.jobseeker.util.VariablesJsonBuilder;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
@@ -30,11 +30,14 @@ import java.util.Map;
 @RequiredArgsConstructor
 public class RobotaUaService implements JobFinder {
 
-    private final List<String> searchQueryFilterValues = List.of("keywords", "page");
+//    private final List<String> searchQueryFilterValues = List.of("keywords", "page");
+
     @Value("${robotaua.graphql.getPublishedVacanciesList}")
     private String graphQlQuery;
+
     private final RestTemplate restTemplate;
     private final RobotaUaJsonVacancyParser robotaUaJsonParser;
+    private final VariablesJsonBuilder variablesJsonBuilder;
 
 
     @Override
@@ -58,18 +61,17 @@ public class RobotaUaService implements JobFinder {
         try {
             return restTemplate.postForObject(URL.DRACULA_ROBOTA_UA_URL + URL.DRACULA_GET_VACANCIES_QUERY, request, String.class);
         } catch (RestClientException e) {
-            log.error("Couldn't retrieve data from robota.ua: {}", e.getMessage());
+            log.error("Couldn't retrieve data from {}: {}", URL.DRACULA_ROBOTA_UA_URL, e.getMessage());
             return Strings.EMPTY;
         }
     }
 
     @SneakyThrows
     private JSONObject buildJsonWithGraphQLQuery(final Map<String, String> params) {
-        final String variablesJson = new Gson().toJson(VariablesJson.Builder.buildFromParams(params));
+        final String variablesJson = new Gson().toJson(variablesJsonBuilder.buildFromParams(params));
         final JSONObject json = new JSONObject();
         json.put("variables", new JSONObject(variablesJson));
         json.put("query", graphQlQuery);
-
         return json;
     }
 }
