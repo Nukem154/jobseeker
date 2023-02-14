@@ -8,7 +8,6 @@ import java.time.LocalDate;
 @Data
 @Builder
 public class VacancyDto {
-    private Integer id;
     private LocalDate date;
     private String title;
     private String description;
