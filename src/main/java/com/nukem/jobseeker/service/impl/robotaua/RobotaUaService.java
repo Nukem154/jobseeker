@@ -7,12 +7,11 @@ import com.nukem.jobseeker.model.dto.robota.VariablesJson;
 import com.nukem.jobseeker.service.JobFinder;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
+import lombok.extern.slf4j.Slf4j;
 import org.apache.logging.log4j.util.Strings;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
@@ -26,13 +25,13 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
+@Slf4j
 @Service
 @RequiredArgsConstructor
 public class RobotaUaService implements JobFinder {
-    private final Logger logger = LoggerFactory.getLogger(RobotaUaService.class);
 
     private final List<String> searchQueryFilterValues = List.of("keywords", "page");
-    @Value("${robotaua.graphql.query}")
+    @Value("${robotaua.graphql.getPublishedVacanciesList}")
     private String graphQlQuery;
     private final RestTemplate restTemplate;
     private final RobotaUaJsonVacancyParser robotaUaJsonParser;
@@ -59,7 +58,7 @@ public class RobotaUaService implements JobFinder {
         try {
             return restTemplate.postForObject(URL.DRACULA_ROBOTA_UA_URL + URL.DRACULA_GET_VACANCIES_QUERY, request, String.class);
         } catch (RestClientException e) {
-            logger.error("Couldn't retrieve data from robota.ua: {}", e.getMessage());
+            log.error("Couldn't retrieve data from robota.ua: {}", e.getMessage());
             return Strings.EMPTY;
         }
     }

@@ -7,6 +7,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.springframework.stereotype.Component;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -29,7 +30,7 @@ public class RobotaUaJsonVacancyParser extends VacancyParser<JSONObject> {
     }
 
     @Override
-    protected String getVacancyDate(JSONObject json) {
+    protected LocalDate getVacancyDate(JSONObject json) {
         return DateUtils.parseDate(json.optString("sortDateText"));
     }
 

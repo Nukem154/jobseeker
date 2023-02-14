@@ -2,6 +2,8 @@ package com.nukem.jobseeker.service;
 
 import com.nukem.jobseeker.model.dto.VacancyDto;
 
+import java.time.LocalDate;
+
 /**
  * This class parses given element to {@link VacancyDto}
  *
@@ -10,7 +12,7 @@ import com.nukem.jobseeker.model.dto.VacancyDto;
 public abstract class VacancyParser<T> {
 
     public VacancyDto parse(T t) {
-        final VacancyDto vacancyDto = VacancyDto.builder()
+        return VacancyDto.builder()
                 .date(getVacancyDate(t))
                 .title(getVacancyTitle(t))
                 .description(getVacancyDescription(t))
@@ -20,13 +22,11 @@ public abstract class VacancyParser<T> {
                 .companyName(getCompanyName(t))
                 .placeholderLogo(getPlaceholderLogo())
                 .build();
-        vacancyDto.generateId();
-        return vacancyDto;
     }
 
     protected abstract String getPlaceholderLogo();
 
-    protected abstract String getVacancyDate(T t);
+    protected abstract LocalDate getVacancyDate(T t);
 
     protected abstract String getVacancyTitle(T t);
 

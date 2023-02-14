@@ -7,6 +7,8 @@ import org.apache.commons.lang3.StringUtils;
 import org.jsoup.nodes.Element;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDate;
+
 @Service
 public class DjinniVacancyParser extends VacancyParser<Element> {
 
@@ -16,7 +18,7 @@ public class DjinniVacancyParser extends VacancyParser<Element> {
     }
 
     @Override
-    protected String getVacancyDate(final Element element) {
+    protected LocalDate getVacancyDate(final Element element) {
         return DateUtils.parseDate(element.select("div[class=text-date order-2 ml-md-auto pr-2 mb-2 mb-md-0 nowrap]").first().ownText());
     }
 

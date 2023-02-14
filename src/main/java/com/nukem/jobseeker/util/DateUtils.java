@@ -18,27 +18,27 @@ public class DateUtils {
         System.out.println(parseDate(date));
     }
 
-    public static String parseDate(String date) {
+    public static LocalDate parseDate(String date) {
         if (date.equalsIgnoreCase("сьогодні")
                 || date.equalsIgnoreCase("today")
                 || date.contains("год")
                 || date.contains("хвилин")) {
-            return LocalDate.now().format(formatter);
+            return LocalDate.now();
         }
         if (date.equalsIgnoreCase("вчора")
                 || date.equalsIgnoreCase("yesterday")
         ) {
-            return LocalDate.now().minusDays(1).format(formatter);
+            return LocalDate.now().minusDays(1);
         }
         if (date.contains("тиж")) {
-            return LocalDate.now().minusWeeks(Character.getNumericValue(date.charAt(0))).format(formatter);
+            return LocalDate.now().minusWeeks(Character.getNumericValue(date.charAt(0)));
         }
         if (date.contains("день")
                 || date.contains("дні")) {
-            return LocalDate.now().minusDays(Character.getNumericValue(date.charAt(0))).format(formatter);
+            return LocalDate.now().minusDays(Character.getNumericValue(date.charAt(0)));
         }
         if (date.contains("місяц")) {
-            return LocalDate.now().minusMonths(Character.getNumericValue(date.charAt(0))).format(formatter);
+            return LocalDate.now().minusMonths(Character.getNumericValue(date.charAt(0)));
         }
         final AtomicReference<Month> month = new AtomicReference<>();
         final AtomicBoolean flag = new AtomicBoolean(false);
@@ -50,9 +50,9 @@ public class DateUtils {
                     flag.set(true);
                 });
         if (flag.get()) {
-            return LocalDate.of(2023, month.get(), Character.getNumericValue(date.charAt(0))).format(formatter);
+            return LocalDate.of(2023, month.get(), Character.getNumericValue(date.charAt(0)));
         }
-        return date;
+        return null;
     }
 }
 

@@ -23,11 +23,10 @@ public class VacancyService {
 
     @Cacheable(VACANCIES)
     public List<VacancyDto> findVacanciesFromAllResources(final Map<String, String> params) {
-        final List<VacancyDto> list = jobFinders.stream()
+        return jobFinders.stream()
                 .flatMap(jobFinder -> jobFinder.findVacancies(params).stream())
+                .sorted(Comparator.comparing(VacancyDto::getDate, Comparator.nullsLast(Comparator.reverseOrder())))
                 .collect(Collectors.toList());
-        Collections.shuffle(list);
-        return list;
     }
 
 }

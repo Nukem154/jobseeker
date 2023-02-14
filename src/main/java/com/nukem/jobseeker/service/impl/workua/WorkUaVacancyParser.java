@@ -6,6 +6,8 @@ import com.nukem.jobseeker.util.DateUtils;
 import org.jsoup.nodes.Element;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDate;
+
 @Service
 public class WorkUaVacancyParser extends VacancyParser<Element> {
 
@@ -15,7 +17,7 @@ public class WorkUaVacancyParser extends VacancyParser<Element> {
     }
 
     @Override
-    protected String getVacancyDate(final Element element) {
+    protected LocalDate getVacancyDate(final Element element) {
         return DateUtils.parseDate(element.select("span[class=text-muted small]").text());
     }
 
