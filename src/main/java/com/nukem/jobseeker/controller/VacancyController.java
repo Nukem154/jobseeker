@@ -24,7 +24,6 @@ public class VacancyController {
 
     @GetMapping("/vacancies")
     public List<VacancyDto> getVacancies(@RequestParam(required = false) Map<String, String> params) {
-
         return vacancyService.findVacanciesFromAllResources(params);
     }
 
@@ -33,55 +32,4 @@ public class VacancyController {
         return cityRepository.findAll();
     }
 
-
-
-    /*
-        String content = Files.readString(Path.of("D:\\Java Projects\\jobSeeker\\src\\main\\resources\\robotaCities.txt"), StandardCharsets.UTF_8);
-
-        List<Root> list = new Gson().fromJson(content, new TypeToken<List<Root>>(){}.getType());
-        list.forEach(System.out::println);
-        System.out.println(list.size());
-        List<City> cities = list.stream().map(
-                o -> {
-                    City city = new City();
-                    city.setRobotaUaId(o.id);
-                    city.setUa(o.ua);
-                    city.setEn(o.en);
-                    city.setRu(o.ru);
-                    return city;
-                }).collect(Collectors.toList());
-        FileWriter writer = new FileWriter("src\\main\\resources\\cities.txt");
-        for(City city: cities) {
-            writer.write(city.toJson() + System.lineSeparator());
-        }
-        writer.close();
-*/
-
-
-//    @ToString
-//    class LocativeName {
-//        public String ua;
-//        public String ru;
-//
-//    }
-//
-//    @ToString
-//    class RegionName {
-//        public String ua;
-//        public String ru;
-//    }
-//
-//    @ToString
-//    class Root {
-//        public int centerId;
-//        public Object centerName;
-//        public RegionName regionName;
-//        public int vacancyCount;
-//        public LocativeName locativeName;
-//        public int countryId;
-//        public int id;
-//        public String ru;
-//        public String ua;
-//        public String en;
-//    }
 }

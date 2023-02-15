@@ -46,12 +46,12 @@ public class DjinniVacancyParser extends VacancyParser<Element> {
     }
 
     @Override
-    protected String getLocation(Element element) {
+    protected String getLocation(final Element element) {
         return element.select("span.location-text").text();
     }
 
     @Override
-    protected String getCompanyName(Element element) {
+    protected String getCompanyName(final Element element) {
         if (element.select("div.list-jobs__details__info > a").size() > 1) {
             return element.select("div.list-jobs__details__info > a").first().text();
         }

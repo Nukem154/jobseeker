@@ -30,37 +30,37 @@ public class RobotaUaJsonVacancyParser extends VacancyParser<JSONObject> {
     }
 
     @Override
-    protected LocalDate getVacancyDate(JSONObject json) {
+    protected LocalDate getVacancyDate(final JSONObject json) {
         return DateUtils.parseDate(json.optString("sortDateText"));
     }
 
     @Override
-    protected String getVacancyTitle(JSONObject json) {
+    protected String getVacancyTitle(final JSONObject json) {
         return json.optString("title");
     }
 
     @Override
-    protected String getVacancyDescription(JSONObject json) {
+    protected String getVacancyDescription(final JSONObject json) {
         return json.optString("description");
     }
 
     @Override
-    protected String getVacancyLink(JSONObject json) {
+    protected String getVacancyLink(final JSONObject json) {
         return ROBOTA_UA_URL + COMPANY + getCompanyId(json) + SLASH + VACANCY + json.optString("id");
     }
 
     @Override
-    protected String getCompanyLogo(JSONObject json) {
+    protected String getCompanyLogo(final JSONObject json) {
         return getValueFromObject(json.optJSONObject("company"), "logoUrl");
     }
 
     @Override
-    protected String getLocation(JSONObject json) {
+    protected String getLocation(final JSONObject json) {
         return getValueFromObject(json.optJSONObject("city"), "name");
     }
 
     @Override
-    protected String getCompanyName(JSONObject json) {
+    protected String getCompanyName(final JSONObject json) {
         return getValueFromObject(json.optJSONObject("company"), "name");
     }
 
