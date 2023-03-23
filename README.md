@@ -8,6 +8,8 @@ JobSeeker is a web application written in Java using Spring framework that helps
 - Spring Boot 3.0.0+
 - Spring Web MVC
 - Spring Data JPA
+- PostgreSQL
+- Flyway
 - Jsoup
 
 ## Features
